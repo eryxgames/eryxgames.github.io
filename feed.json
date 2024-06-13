@@ -5,7 +5,7 @@
     "home_page_url": "https://eryxgames.github.io",
     "feed_url": "https://eryxgames.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://eryxgames.github.io/media/website/logoeryxweb4b.png",
+    "icon": "https://eryxgames.github.io/media/website/logoeryxweb-high2.png",
     "author": {
         "name": "Eryx Games"
     },
@@ -14,22 +14,22 @@
             "id": "https://eryxgames.github.io/gameplay-and-rules.html",
             "url": "https://eryxgames.github.io/gameplay-and-rules.html",
             "title": "Gameplay and Rules",
-            "summary": "ERYX TCG Online Rules Game for 2 playersPlayers take turns when playing cards on the gameboardGenerally, a card need action points as a&hellip;",
-            "content_html": "\n    <h2 id=\"eryx-tcg-online-rules\">\n      ERYX TCG Online Rules\n    </h2>\n\n  <ul>\n    <li>Game for 2 players</li><li>Players take turns when playing cards on the gameboard</li><li>Generally, a card need action points as a resource to be played</li><li>Action points are replenished each turn an number of actions are +1 each consequent turn</li><li>Player has also HP. If his HP goes to 0 or his cards in the game are destroyed (and there are no resources left in the deck), he loses the game</li><li>Player can not be attacked if a unit card or an effect card is defending him</li><li>Game can end in tie if the battle is unresolved or both players are out of resources and no cards ti play</li>\n  </ul>\n\n    <h2 id=\"card-description\">\n      Card Description\n    </h2>\n\n  <ul>\n    <li>Cost/Action points</li><li>Faction</li><li>Rarity (how many of instances can be in a deck)<br></li><li>Battle stats (Attack, HP)</li><li>Traits and Affiliations</li><li>Effects</li>\n  </ul>\n\n    <h2 id=\"factions\">\n      Factions\n    </h2>\n\n  <p>\n    In a standard online game cards in custom deck can be from any faction.\n  </p>\n\n    <h2 id=\"deckbuilding-rules\">\n      Deckbuilding Rules\n    </h2>\n\n  <p>\n    Only certain number of instances of a card can be present in a player deck, depending on the rarity of a card. Number of cards in a valid&nbsp; deck for an online game is 20.\n  </p>\n\n  <p class=\"msg msg--info\">\n    Rules differ for Print2Play and Online versions.&nbsp;\n  </p>\n\n  <p>\n    Full rulebook for ERYX&nbsp;Print2Play Edition is accessible on the project repository.\n  </p>",
+            "summary": "ERYX TCG Online Rules You may play in multiplayer duel mode on a dedicated server or in offline mode in adventure or solo&hellip;",
+            "content_html": "\n    <h2 id=\"eryx-tcg-online-rules\">\n      ERYX TCG Online Rules\n    </h2>\n\n  <p class=\"msg msg--info\">\n    You may play in multiplayer duel mode on a dedicated server or in offline mode in adventure or solo mode against AI opponents\n  </p>\n\n  <ul>\n    <li>Game for 2 players</li><li>Players take turns when playing cards on the gameboard</li><li>Generally, a card need action points as a resource to be played</li><li>Action points are replenished each turn an number of actions are +1 each consequent turn</li><li>Player has also HP. If his HP goes to 0 or his cards in the game are destroyed (and there are no resources left in the deck), he loses the game</li><li>Player can not be attacked if a unit card or an effect card is defending him</li><li>Game can end in tie if the battle is unresolved or both players are out of resources and no cards ti play</li>\n  </ul>\n\n    <h2 id=\"card-description\">\n      Card Description\n    </h2>\n\n  <ul>\n    <li>Cost/Action points</li><li>Faction</li><li>Rarity (how many of instances can be in a deck)<br></li><li>Battle stats (Attack, HP)</li><li>Traits and Affiliations</li><li>Effects</li>\n  </ul>\n\n    <h2 id=\"factions\">\n      Factions\n    </h2>\n\n  <p>\n    In a standard online game cards in custom deck can be from any faction.\n  </p>\n\n    <h2 id=\"deckbuilding-rules\">\n      Deckbuilding Rules\n    </h2>\n\n  <p>\n    Only certain number of instances of a card can be present in a player deck, depending on the rarity of a card. Number of cards in a valid&nbsp; deck for an online game is 20.\n  </p>\n\n  <p class=\"msg msg--info\">\n    Rules differ for Print2Play and Online versions.&nbsp;\n  </p>\n\n  <p>\n    Full rulebook for ERYX&nbsp;Print2Play Edition is accessible on the project repository.\n  </p>",
             "author": {
                 "name": "Eryx Games"
             },
             "tags": [
             ],
             "date_published": "2024-06-13T21:24:04+02:00",
-            "date_modified": "2024-06-13T21:27:27+02:00"
+            "date_modified": "2024-06-13T23:07:06+02:00"
         },
         {
             "id": "https://eryxgames.github.io/download-the-latest-versions.html",
             "url": "https://eryxgames.github.io/download-the-latest-versions.html",
-            "title": "ERYX TCG: Download the Latest Versions",
-            "summary": "Early access: Shape the future of Eryx by providing feedback on gameplay mechanics during this pre-alpha phase. Eryx Now on Tablets!** Unleash cosmic&hellip;",
-            "content_html": "\n  <p class=\"msg msg--warning\">\n    Early access: Shape the future of Eryx by providing feedback on gameplay mechanics during this pre-alpha phase.\n  </p>\n\n  <p>\n    Eryx Now on Tablets!** Unleash cosmic horror on a grander scale. Pre-alpha: Optimized for Android tablets.\n  </p>\n<div><p>\n<div class=\"btn-group\"><a href=\"https://eryxgames.itch.io/\" class=\"button\">DOWNLOAD Eryx TCG</a> </a>\n<div class=\"btn-group\">&nbsp;</div>\n</p></div>\n\n  <p>\n    Unleash the Horror in Stunning Detail!  Eryx, the Lovecraftian card game, arrives on Windows PC.\n  </p>\n<div><p>\n<div class=\"btn-group\"><a href=\"https://eryxgames.itch.io/\" class=\"button\">DOWNLOAD Eryx TCG</a> </a>\n<div class=\"btn-group\">&nbsp;</div>\n</p>\n</div>\n\n  <p>\n    Craft Your Deck, Craft Your Fun! Free Eryx Print &amp; Play: unleash cosmic horror with a DIY deckbuilding card game experience.\n  </p>\n<div><p>\n<div class=\"btn-group\"><a href=\"https://eryxgames.itch.io/\" class=\"button\">DOWNLOAD Eryx TCG PRINT2PLAY FILES</a> </a>\n<div class=\"btn-group\">&nbsp;</div>\n</p>\n</div>\n\n  <p class=\"msg msg--warning\">\n    Welcome to the Pre-Alpha! Eryx is currently in development. Things might be a bit... rough around the edges. Expect bugs, incomplete features, and potential balance issues. Your feedback is invaluable!\n  </p>\n\n  <p>\n    &nbsp;\n  </p>",
+            "title": "Download the Latest Versions",
+            "summary": "Early access: Shape the future of Eryx by providing feedback on gameplay mechanics during this pre-alpha phase. Eryx Now on Tablets! Unleash cosmic&hellip;",
+            "content_html": "\n  <p class=\"msg msg--warning\">\n    Early access: Shape the future of Eryx by providing feedback on gameplay mechanics during this pre-alpha phase.\n  </p>\n\n  <p>\n    Eryx Now on Tablets! Unleash cosmic horror on a grander scale. Pre-alpha: Optimized for Android tablets.\n  </p>\n<div><p>\n<div class=\"btn-group\"><a href=\"https://eryxgames.itch.io/\" class=\"button\">DOWNLOAD Eryx TCG</a> </a>\n<div class=\"btn-group\">&nbsp;</div>\n</p></div>\n\n  <p>\n    Unleash the Horror in Stunning Detail!  Eryx, the Lovecraftian card game, arrives on Windows PC.\n  </p>\n<div><p>\n<div class=\"btn-group\"><a href=\"https://eryxgames.itch.io/\" class=\"button\">DOWNLOAD Eryx TCG</a> </a>\n<div class=\"btn-group\">&nbsp;</div>\n</p>\n</div>\n\n  <p>\n    Craft Your Deck, Craft Your Fun! Free Eryx Print &amp; Play: unleash cosmic horror with a DIY deckbuilding card game experience.\n  </p>\n<div><p>\n<div class=\"btn-group\"><a href=\"https://eryxgames.itch.io/\" class=\"button\">DOWNLOAD Eryx TCG PRINT2PLAY FILES</a> </a>\n<div class=\"btn-group\">&nbsp;</div>\n</p>\n</div>\n\n  <p class=\"msg msg--warning\">\n    Welcome to the Pre-Alpha! Eryx is currently in development. Things might be a bit... rough around the edges. Expect bugs, incomplete features, and potential balance issues. Your feedback is invaluable!\n  </p>\n\n  <p>\n    &nbsp;\n  </p>",
             "author": {
                 "name": "Eryx Games"
             },
@@ -37,7 +37,7 @@
                    "download"
             ],
             "date_published": "2024-06-13T20:45:53+02:00",
-            "date_modified": "2024-06-13T21:01:04+02:00"
+            "date_modified": "2024-06-13T23:27:48+02:00"
         },
         {
             "id": "https://eryxgames.github.io/public-beta-of-eryx-tcg-new-factions-and-strategies.html",

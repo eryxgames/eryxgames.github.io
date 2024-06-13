@@ -3,7 +3,7 @@
     <title>eryx</title>
     <link href="https://eryxgames.github.io/feed.xml" rel="self" />
     <link href="https://eryxgames.github.io" />
-    <updated>2024-06-13T21:27:27+02:00</updated>
+    <updated>2024-06-13T23:27:48+02:00</updated>
     <author>
         <name>Eryx Games</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2024-06-13T21:24:04+02:00</updated>
             <summary>
                 <![CDATA[
-                    ERYX TCG Online Rules Game for 2 playersPlayers take turns when playing cards on the gameboardGenerally, a card need action points as a&hellip;
+                    ERYX TCG Online Rules You may play in multiplayer duel mode on a dedicated server or in offline mode in adventure or solo&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -29,6 +29,10 @@
     <h2 id="eryx-tcg-online-rules">
       ERYX TCG Online Rules
     </h2>
+
+  <p class="msg msg--info">
+    You may play in multiplayer duel mode on a dedicated server or in offline mode in adventure or solo mode against AI opponents
+  </p>
 
   <ul>
     <li>Game for 2 players</li><li>Players take turns when playing cards on the gameboard</li><li>Generally, a card need action points as a resource to be played</li><li>Action points are replenished each turn an number of actions are +1 each consequent turn</li><li>Player has also HP. If his HP goes to 0 or his cards in the game are destroyed (and there are no resources left in the deck), he loses the game</li><li>Player can not be attacked if a unit card or an effect card is defending him</li><li>Game can end in tie if the battle is unresolved or both players are out of resources and no cards ti play</li>
@@ -69,7 +73,7 @@
         </content>
     </entry>
     <entry>
-        <title>ERYX TCG: Download the Latest Versions</title>
+        <title>Download the Latest Versions</title>
         <author>
             <name>Eryx Games</name>
         </author>
@@ -80,7 +84,7 @@
         <updated>2024-06-13T20:45:53+02:00</updated>
             <summary>
                 <![CDATA[
-                    Early access: Shape the future of Eryx by providing feedback on gameplay mechanics during this pre-alpha phase. Eryx Now on Tablets!** Unleash cosmic&hellip;
+                    Early access: Shape the future of Eryx by providing feedback on gameplay mechanics during this pre-alpha phase. Eryx Now on Tablets! Unleash cosmic&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -91,7 +95,7 @@
   </p>
 
   <p>
-    Eryx Now on Tablets!** Unleash cosmic horror on a grander scale. Pre-alpha: Optimized for Android tablets.
+    Eryx Now on Tablets! Unleash cosmic horror on a grander scale. Pre-alpha: Optimized for Android tablets.
   </p>
 <div><p>
 <div class="btn-group"><a href="https://eryxgames.itch.io/" class="button">DOWNLOAD Eryx TCG</a> </a>

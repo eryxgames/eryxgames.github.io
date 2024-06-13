@@ -164,7 +164,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 3.5rem;
   line-height: 1.1;
   margin: 0 0 2rem 0;
 }
@@ -2678,7 +2678,7 @@ body.is-preload #wrapper.fade-in:before {
   cursor: default;
   text-align: center;
   z-index: 1;
-  min-height: 100vh;
+  min-height: 90vh;
 }
 #intro input, #intro select, #intro textarea {
   color: #ffffff;
@@ -2744,7 +2744,7 @@ body.is-preload #wrapper.fade-in:before {
   background-color: var(--color);
 }
 #intro h1 {
-  font-size: 5rem;
+  font-size: 4.5rem;
   line-height: 1;
 }
 #intro p {
@@ -3059,7 +3059,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   margin-top: -2rem;
 }
 #main > .post header.major > h1, #main > .post header.major h2 {
-  font-size: 4rem;
+  font-size: 3rem;
   line-height: 1.1;
   margin: 0 0 2rem 0;
 }
@@ -3741,6 +3741,8 @@ hr::before,
 .msg--info {
   background: #f2f9ff00;
   border-color: #007de8;
+  color: #3aa3ff;
+
 }
 .msg--success {
   background: #f7fbf600;
