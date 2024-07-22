@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>eryx</title>
-    <link href="https://eryxgames.github.io/feed.xml" rel="self" />
-    <link href="https://eryxgames.github.io" />
+    <link href="https://www.eryxian.com/feed.xml" rel="self" />
+    <link href="https://www.eryxian.com" />
     <updated>2024-06-13T23:27:48+02:00</updated>
     <author>
         <name>Eryx Games</name>
     </author>
-    <id>https://eryxgames.github.io</id>
+    <id>https://www.eryxian.com</id>
 
     <entry>
         <title>Gameplay and Rules</title>
         <author>
             <name>Eryx Games</name>
         </author>
-        <link href="https://eryxgames.github.io/gameplay-and-rules.html"/>
-        <id>https://eryxgames.github.io/gameplay-and-rules.html</id>
+        <link href="https://www.eryxian.com/gameplay-and-rules.html"/>
+        <id>https://www.eryxian.com/gameplay-and-rules.html</id>
 
         <updated>2024-06-13T21:24:04+02:00</updated>
             <summary>
@@ -77,8 +77,8 @@
         <author>
             <name>Eryx Games</name>
         </author>
-        <link href="https://eryxgames.github.io/download-the-latest-versions.html"/>
-        <id>https://eryxgames.github.io/download-the-latest-versions.html</id>
+        <link href="https://www.eryxian.com/download-the-latest-versions.html"/>
+        <id>https://www.eryxian.com/download-the-latest-versions.html</id>
             <category term="download"/>
 
         <updated>2024-06-13T20:45:53+02:00</updated>
@@ -135,20 +135,20 @@
         <author>
             <name>Eryx Games</name>
         </author>
-        <link href="https://eryxgames.github.io/public-beta-of-eryx-tcg-new-factions-and-strategies.html"/>
-        <id>https://eryxgames.github.io/public-beta-of-eryx-tcg-new-factions-and-strategies.html</id>
-        <media:content url="https://eryxgames.github.io/media/posts/6/eryx_game_public_beta.png" medium="image" />
+        <link href="https://www.eryxian.com/public-beta-of-eryx-tcg-new-factions-and-strategies.html"/>
+        <id>https://www.eryxian.com/public-beta-of-eryx-tcg-new-factions-and-strategies.html</id>
+        <media:content url="https://www.eryxian.com/media/posts/6/eryx_game_public_beta.png" medium="image" />
 
         <updated>2024-06-11T17:39:08+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://eryxgames.github.io/media/posts/6/eryx_game_public_beta.png" alt="Eryx TCG: Free card game with online dueling" />
+                        <img src="https://www.eryxian.com/media/posts/6/eryx_game_public_beta.png" alt="Eryx TCG: Free card game with online dueling" />
                     Calling All Sci-Fi Strategists: Eryx TCG Enters Open Beta with New Content and Platforms! Attention spacefarers and fantasy warriors! Buckle up and prepare&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://eryxgames.github.io/media/posts/6/eryx_game_public_beta.png" class="type:primaryImage" alt="Eryx TCG: Free card game with online dueling" /></p>
+                    <p><img src="https://www.eryxian.com/media/posts/6/eryx_game_public_beta.png" class="type:primaryImage" alt="Eryx TCG: Free card game with online dueling" /></p>
                 
     <h2 id="calling-all-sci-fi-strategists-eryx-tcg-enters-open-beta-with-new-content-and-platforms">
       Calling All Sci-Fi Strategists: Eryx TCG Enters Open Beta with New Content and Platforms!
@@ -173,8 +173,8 @@
         <author>
             <name>Eryx Games</name>
         </author>
-        <link href="https://eryxgames.github.io/test-post.html"/>
-        <id>https://eryxgames.github.io/test-post.html</id>
+        <link href="https://www.eryxian.com/test-post.html"/>
+        <id>https://www.eryxian.com/test-post.html</id>
 
         <updated>2024-06-04T21:48:49+02:00</updated>
             <summary>
@@ -196,20 +196,20 @@
         <author>
             <name>Eryx Games</name>
         </author>
-        <link href="https://eryxgames.github.io/card-test-online.html"/>
-        <id>https://eryxgames.github.io/card-test-online.html</id>
-        <media:content url="https://eryxgames.github.io/media/posts/4/cardtest.png" medium="image" />
+        <link href="https://www.eryxian.com/card-test-online.html"/>
+        <id>https://www.eryxian.com/card-test-online.html</id>
+        <media:content url="https://www.eryxian.com/media/posts/4/cardtest.png" medium="image" />
 
         <updated>2024-06-04T20:05:58+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://eryxgames.github.io/media/posts/4/cardtest.png" alt="" />
+                        <img src="https://www.eryxian.com/media/posts/4/cardtest.png" alt="" />
                     Online server running. Worldbuilding for science fiction game. Eryx. A name whispered on a thousand barren worlds, a beacon of luminescence in the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://eryxgames.github.io/media/posts/4/cardtest.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.eryxian.com/media/posts/4/cardtest.png" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="online-server-running">
       Online server running.
@@ -238,14 +238,14 @@
         <author>
             <name>Eryx Games</name>
         </author>
-        <link href="https://eryxgames.github.io/new-ancients-card.html"/>
-        <id>https://eryxgames.github.io/new-ancients-card.html</id>
-        <media:content url="https://eryxgames.github.io/media/posts/3/frame_gold.png" medium="image" />
+        <link href="https://www.eryxian.com/new-ancients-card.html"/>
+        <id>https://www.eryxian.com/new-ancients-card.html</id>
+        <media:content url="https://www.eryxian.com/media/posts/3/frame_gold.png" medium="image" />
 
         <updated>2024-06-04T19:49:22+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://eryxgames.github.io/media/posts/3/frame_gold.png" alt="" />
+                        <img src="https://www.eryxian.com/media/posts/3/frame_gold.png" alt="" />
                     
   <p>
     This is the new card added ljkjljkjlkj lkjlkjlk
@@ -255,7 +255,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://eryxgames.github.io/media/posts/3/frame_gold.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.eryxian.com/media/posts/3/frame_gold.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     This is the new card added ljkjljkjlkj lkjlkjlk
@@ -273,20 +273,20 @@
         <author>
             <name>Eryx Games</name>
         </author>
-        <link href="https://eryxgames.github.io/eryx-design-the-game-world.html"/>
-        <id>https://eryxgames.github.io/eryx-design-the-game-world.html</id>
-        <media:content url="https://eryxgames.github.io/media/posts/2/eryxgame-illustration01.png" medium="image" />
+        <link href="https://www.eryxian.com/eryx-design-the-game-world.html"/>
+        <id>https://www.eryxian.com/eryx-design-the-game-world.html</id>
+        <media:content url="https://www.eryxian.com/media/posts/2/eryxgame-illustration01.png" medium="image" />
 
         <updated>2024-05-18T16:52:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://eryxgames.github.io/media/posts/2/eryxgame-illustration01.png" alt="" />
+                        <img src="https://www.eryxian.com/media/posts/2/eryxgame-illustration01.png" alt="" />
                     Worldbuilding for science fiction game.&nbsp; Players can create their own cards using provided Rules &amp; Lore Book (for Print2Play Edition), using own graphics&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://eryxgames.github.io/media/posts/2/eryxgame-illustration01.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.eryxian.com/media/posts/2/eryxgame-illustration01.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Worldbuilding for science fiction game.&nbsp;
@@ -349,8 +349,8 @@
         <author>
             <name>Eryx Games</name>
         </author>
-        <link href="https://eryxgames.github.io/the-story-of-eryx-a-lovecraftian-fable.html"/>
-        <id>https://eryxgames.github.io/the-story-of-eryx-a-lovecraftian-fable.html</id>
+        <link href="https://www.eryxian.com/the-story-of-eryx-a-lovecraftian-fable.html"/>
+        <id>https://www.eryxian.com/the-story-of-eryx-a-lovecraftian-fable.html</id>
 
         <updated>2024-05-17T18:00:00+02:00</updated>
             <summary>
@@ -372,8 +372,8 @@
         <author>
             <name>Eryx Games</name>
         </author>
-        <link href="https://eryxgames.github.io/development-and-worldbuilding-gallery.html"/>
-        <id>https://eryxgames.github.io/development-and-worldbuilding-gallery.html</id>
+        <link href="https://www.eryxian.com/development-and-worldbuilding-gallery.html"/>
+        <id>https://www.eryxian.com/development-and-worldbuilding-gallery.html</id>
 
         <updated>2024-05-16T17:56:00+02:00</updated>
             <summary>
@@ -399,14 +399,14 @@
         <author>
             <name>Eryx Games</name>
         </author>
-        <link href="https://eryxgames.github.io/eryx-tcg-alpha.html"/>
-        <id>https://eryxgames.github.io/eryx-tcg-alpha.html</id>
-        <media:content url="https://eryxgames.github.io/media/posts/1/titlepageeryxalpha3.png" medium="image" />
+        <link href="https://www.eryxian.com/eryx-tcg-alpha.html"/>
+        <id>https://www.eryxian.com/eryx-tcg-alpha.html</id>
+        <media:content url="https://www.eryxian.com/media/posts/1/titlepageeryxalpha3.png" medium="image" />
 
         <updated>2024-05-14T16:45:15+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://eryxgames.github.io/media/posts/1/titlepageeryxalpha3.png" alt="" />
+                        <img src="https://www.eryxian.com/media/posts/1/titlepageeryxalpha3.png" alt="" />
                     
   <p>
     Gear Up, Explorers, Eryx Descends on Android! The pre-alpha for Eryx, the chilling deckbuilding card game, is here! Dive into a world of cosmic horror and experience early gameplay mechanics.&nbsp;Be among the first to explore the enigmatic world and encounter its lurking horrors.
@@ -416,7 +416,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://eryxgames.github.io/media/posts/1/titlepageeryxalpha3.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.eryxian.com/media/posts/1/titlepageeryxalpha3.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Gear Up, Explorers, Eryx Descends on Android! The pre-alpha for Eryx, the chilling deckbuilding card game, is here! Dive into a world of cosmic horror and experience early gameplay mechanics.&nbsp;Be among the first to explore the enigmatic world and encounter its lurking horrors.
