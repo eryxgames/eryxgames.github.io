@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://www.eryxian.com/sitemap.xml
+Sitemap: https://eryxian.com/sitemap.xml
