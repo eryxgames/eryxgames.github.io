@@ -120,7 +120,7 @@ body, input, select, textarea {
   font-family: var(--body-font);
   font-variation-settings: "wght" var(--font-weight-normal);
   font-size: 1rem;
-  line-height: 2.375;
+  line-height: 1.4;
 }
 
 a {
@@ -152,7 +152,7 @@ p {
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--heading-font);
   font-variation-settings: "wght" var(--headings-weight);
-  line-height: 1.5;
+  line-height: 1.35;
   letter-spacing: 0.075em;
   text-transform: var(--headings-transform);
   margin: 0 0 1rem 0;
