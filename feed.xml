@@ -3,146 +3,12 @@
     <title>Eryxian </title>
     <link href="https://eryxian.com/feed.xml" rel="self" />
     <link href="https://eryxian.com" />
-    <updated>2024-08-04T20:12:31+02:00</updated>
+    <updated>2025-02-26T15:12:29+01:00</updated>
     <author>
         <name>Eryx Games</name>
     </author>
     <id>https://eryxian.com</id>
 
-    <entry>
-        <title>Gameplay and Rules</title>
-        <author>
-            <name>Eryx Games</name>
-        </author>
-        <link href="https://eryxian.com/gameplay-and-rules.html"/>
-        <id>https://eryxian.com/gameplay-and-rules.html</id>
-
-        <updated>2024-06-13T21:24:04+02:00</updated>
-            <summary>
-                <![CDATA[
-                    ERYXIAN TCG Online Rules You may play in multiplayer duel mode on a dedicated server or in offline mode in adventure or solo&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <h2 id="eryxian-tcg-online-rules">
-      ERYXIAN TCG Online Rules
-    </h2>
-
-  <p class="msg msg--info">
-    You may play in multiplayer duel mode on a dedicated server or in offline mode in adventure or solo mode against AI opponents
-  </p>
-
-  <ul>
-    <li>Game for 2 players</li><li>Players take turns when playing cards on the gameboard</li><li>Generally, a card need action points as a resource to be played</li><li>Action points are replenished each turn an number of actions are +1 each consequent turn</li><li>Player has also HP. If his HP goes to 0 or his cards in the game are destroyed (and there are no resources left in the deck), he loses the game</li><li>Player can not be attacked if a unit card or an effect card is defending him</li><li>Game can end in tie if the battle is unresolved or both players are out of resources and no cards ti play</li>
-  </ul>
-
-    <h2 id="card-description">
-      Card Description
-    </h2>
-
-  <ul>
-    <li>Cost/Action points</li><li>Faction</li><li>Rarity (how many of instances can be in a deck)<br></li><li>Battle stats (Attack, HP)</li><li>Traits and Affiliations</li><li>Effects</li>
-  </ul>
-
-    <h2 id="factions">
-      Factions
-    </h2>
-
-  <p>
-    In a standard online game cards in custom deck can be from any faction.
-  </p>
-
-    <h2 id="deckbuilding-rules">
-      Deckbuilding Rules
-    </h2>
-
-  <p>
-    Only certain number of instances of a card can be present in a player deck, depending on the rarity of a card. Number of cards in a valid&nbsp; deck for an online game is 20.
-  </p>
-
-  <p class="msg msg--info">
-    Rules differ for Print2Play and Online versions.&nbsp;
-  </p>
-
-  <p>
-    Full rulebook for ERYX&nbsp;Print2Play Edition is accessible on the project repository.
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Download the Latest Versions</title>
-        <author>
-            <name>Eryx Games</name>
-        </author>
-        <link href="https://eryxian.com/download-the-latest-versions.html"/>
-        <id>https://eryxian.com/download-the-latest-versions.html</id>
-            <category term="download"/>
-            <category term="development"/>
-
-        <updated>2024-06-13T20:45:53+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Early access: Shape the future of Eryx by providing feedback on gameplay mechanics during this pre-alpha phase. Eryxian Now on Tablets! Unleash cosmic&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p class="msg msg--warning">
-    Early access: Shape the future of Eryx by providing feedback on gameplay mechanics during this pre-alpha phase.
-  </p>
-
-    <h2 id="eryxian-tcg">
-      Eryxian TCG
-    </h2>
-
-  <p>
-    Eryxian Now on Tablets! Unleash cosmic horror on a grander scale. Pre-alpha: Optimized for Android tablets.
-  </p>
-<div><p>
-<div class="btn-group"><a href="https://eryxgames.itch.io/" class="button">DOWNLOAD Eryxian TCG</a> </a>
-<div class="btn-group">&nbsp;</div>
-</p></div>
-
-  <p>
-    Unleash the Horror in Stunning Detail!  Eryxian, the Lovecraftian card game, arrives on Windows PC.
-  </p>
-<div><p>
-<div class="btn-group"><a href="https://eryxgames.itch.io/" class="button">DOWNLOAD Eryxian TCG</a> </a>
-<div class="btn-group">&nbsp;</div>
-</p>
-</div>
-
-  <p>
-    Craft Your Deck, Craft Your Fun! Free Eryx Print &amp; Play: unleash cosmic horror with a DIY deckbuilding card game experience.
-  </p>
-<div><p>
-<div class="btn-group"><a href="https://eryxgames.itch.io/" class="button">DOWNLOAD Eryxian TCG PRINT2PLAY FILES</a> </a>
-<div class="btn-group">&nbsp;</div>
-</p>
-</div>
-
-  <p class="msg msg--warning">
-    Welcome to the Pre-Alpha! Eryxian&nbsp; TCG is currently in development. Things might be a bit... rough around the edges. Expect bugs, incomplete features, and potential balance issues. Your feedback is invaluable!
-  </p>
-
-    <h2 id="eryxian-civilizations-tcg">
-      Eryxian Civilizations TCG
-    </h2>
-
-  <p>
-    Eryxian Civilizations, a new strategic card game, is currently in development as a complementary to the Eryxian game and the second instalment in the Eryxian trilogy.
-  </p>
-
-  <p>
-    &nbsp;
-  </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Public Beta of Eryxian TCG: New Factions and Strategies</title>
         <author>
@@ -177,106 +43,6 @@
 
   <p>
     For those eager to delve deeper, be sure to check out the development notes outlining the latest additions and upcoming features together with concept artworks and designs.&nbsp;
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Test Post</title>
-        <author>
-            <name>Eryx Games</name>
-        </author>
-        <link href="https://eryxian.com/test-post.html"/>
-        <id>https://eryxian.com/test-post.html</id>
-
-        <updated>2024-06-04T21:48:49+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Without featured image
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Without featured image
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Card Test Online</title>
-        <author>
-            <name>Eryx Games</name>
-        </author>
-        <link href="https://eryxian.com/card-test-online.html"/>
-        <id>https://eryxian.com/card-test-online.html</id>
-        <media:content url="https://eryxian.com/media/posts/4/cardtest.png" medium="image" />
-
-        <updated>2024-06-04T20:05:58+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://eryxian.com/media/posts/4/cardtest.png" alt="" />
-                    Online server running. Worldbuilding for science fiction game. Eryx. A name whispered on a thousand barren worlds, a beacon of luminescence in the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://eryxian.com/media/posts/4/cardtest.png" class="type:primaryImage" alt="" /></p>
-                
-    <h2 id="online-server-running">
-      Online server running.
-    </h2>
-
-  <p>
-    Worldbuilding for science fiction game. Eryx. A name whispered on a thousand barren worlds, a beacon of luminescence in the unforgiving expanse. Its emerald bioluminescent flora pulsed beneath a perpetual twilight sky, painting the landscape in an alien tapestry. Colossal, crystalline lifeforms pierced the clouds, their surfaces etched with arcane symbols that defied comprehension. Here, fantastical creatures stalked the twilight jungle, their forms a bizarre fusion of familiar and alien. Yet, this strange beauty masked a deeper mystery.
-  </p>
-
-    <h2 id="andnbspthe-eryxians-an-ancient-race-shrouded-in-legend">
-      &nbsp;The Eryxians, an ancient race shrouded in legend
-    </h2>
-
-  <p>
-    , were said to possess psionic abilities that rivaled the gods themselves. Their enigmatic cities, half-buried by the encroaching jungle, pulsed with an unseen energy, a testament to a forgotten glory. You stand at the precipice of this world, a lone operative amidst the whispering secrets of Eryn.
-  </p>
-
-  <p class="msg msg--info">
-    Will you venture forth as a hardened human recon soldier, a stoic member of the robotic collective, or perhaps, a descendant of the Eryxians themself, awakened to a forgotten legacy? The choice is yours, operative. The fate of Eryx hangs in the balance.
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>New Ancients Card</title>
-        <author>
-            <name>Eryx Games</name>
-        </author>
-        <link href="https://eryxian.com/new-ancients-card.html"/>
-        <id>https://eryxian.com/new-ancients-card.html</id>
-        <media:content url="https://eryxian.com/media/posts/3/frame_gold.png" medium="image" />
-
-        <updated>2024-06-04T19:49:22+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://eryxian.com/media/posts/3/frame_gold.png" alt="" />
-                    
-  <p>
-    This is the new card added&nbsp;
-  </p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://eryxian.com/media/posts/3/frame_gold.png" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    This is the new card added&nbsp;
-  </p>
-
-
-  <p>
-    
   </p>
             ]]>
         </content>
@@ -444,7 +210,7 @@
                         <img src="https://eryxian.com/media/posts/1/eryxian-titlepageeryxalpha2b.png" alt="Eryxian Card Game Logo" />
                     
   <p>
-    Gear Up, Explorers, Eryx Descends on Android! The pre-alpha for Eryxian, the chilling deckbuilding card game, is here! Dive into a world of cosmic horror and experience early gameplay mechanics.&nbsp;Be among the first to explore the enigmatic world and encounter its lurking horrors.
+    Gear Up, Explorers, Eryx Descends on Android! The pre-alpha for Eryxian, the chilling deckbuilding card game, is here! Dive into a world of cosmic horror and experience early gameplay mechanics.&nbsp;Be among the first to explore the enigmatic world and encounter its lurking horrors. Lear more about the game world on <a href="https://github.com/eryxgames/Eryxian/wiki" target="_blank" rel="nofollow noopener">Eryxian Wiki</a>.&nbsp;
   </p>
 
                 ]]>
@@ -454,7 +220,7 @@
                     <p><img src="https://eryxian.com/media/posts/1/eryxian-titlepageeryxalpha2b.png" class="type:primaryImage" alt="Eryxian Card Game Logo" /></p>
                 
   <p>
-    Gear Up, Explorers, Eryx Descends on Android! The pre-alpha for Eryxian, the chilling deckbuilding card game, is here! Dive into a world of cosmic horror and experience early gameplay mechanics.&nbsp;Be among the first to explore the enigmatic world and encounter its lurking horrors.
+    Gear Up, Explorers, Eryx Descends on Android! The pre-alpha for Eryxian, the chilling deckbuilding card game, is here! Dive into a world of cosmic horror and experience early gameplay mechanics.&nbsp;Be among the first to explore the enigmatic world and encounter its lurking horrors. Lear more about the game world on <a href="https://github.com/eryxgames/Eryxian/wiki" target="_blank" rel="nofollow noopener">Eryxian Wiki</a>.&nbsp;
   </p>
 
 

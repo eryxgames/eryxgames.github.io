@@ -11,36 +11,6 @@
     },
     "items": [
         {
-            "id": "https://eryxian.com/gameplay-and-rules.html",
-            "url": "https://eryxian.com/gameplay-and-rules.html",
-            "title": "Gameplay and Rules",
-            "summary": "ERYXIAN TCG Online Rules You may play in multiplayer duel mode on a dedicated server or in offline mode in adventure or solo&hellip;",
-            "content_html": "\n    <h2 id=\"eryxian-tcg-online-rules\">\n      ERYXIAN TCG Online Rules\n    </h2>\n\n  <p class=\"msg msg--info\">\n    You may play in multiplayer duel mode on a dedicated server or in offline mode in adventure or solo mode against AI opponents\n  </p>\n\n  <ul>\n    <li>Game for 2 players</li><li>Players take turns when playing cards on the gameboard</li><li>Generally, a card need action points as a resource to be played</li><li>Action points are replenished each turn an number of actions are +1 each consequent turn</li><li>Player has also HP. If his HP goes to 0 or his cards in the game are destroyed (and there are no resources left in the deck), he loses the game</li><li>Player can not be attacked if a unit card or an effect card is defending him</li><li>Game can end in tie if the battle is unresolved or both players are out of resources and no cards ti play</li>\n  </ul>\n\n    <h2 id=\"card-description\">\n      Card Description\n    </h2>\n\n  <ul>\n    <li>Cost/Action points</li><li>Faction</li><li>Rarity (how many of instances can be in a deck)<br></li><li>Battle stats (Attack, HP)</li><li>Traits and Affiliations</li><li>Effects</li>\n  </ul>\n\n    <h2 id=\"factions\">\n      Factions\n    </h2>\n\n  <p>\n    In a standard online game cards in custom deck can be from any faction.\n  </p>\n\n    <h2 id=\"deckbuilding-rules\">\n      Deckbuilding Rules\n    </h2>\n\n  <p>\n    Only certain number of instances of a card can be present in a player deck, depending on the rarity of a card. Number of cards in a valid&nbsp; deck for an online game is 20.\n  </p>\n\n  <p class=\"msg msg--info\">\n    Rules differ for Print2Play and Online versions.&nbsp;\n  </p>\n\n  <p>\n    Full rulebook for ERYX&nbsp;Print2Play Edition is accessible on the project repository.\n  </p>",
-            "author": {
-                "name": "Eryx Games"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-06-13T21:24:04+02:00",
-            "date_modified": "2024-08-02T17:16:51+02:00"
-        },
-        {
-            "id": "https://eryxian.com/download-the-latest-versions.html",
-            "url": "https://eryxian.com/download-the-latest-versions.html",
-            "title": "Download the Latest Versions",
-            "summary": "Early access: Shape the future of Eryx by providing feedback on gameplay mechanics during this pre-alpha phase. Eryxian Now on Tablets! Unleash cosmic&hellip;",
-            "content_html": "\n  <p class=\"msg msg--warning\">\n    Early access: Shape the future of Eryx by providing feedback on gameplay mechanics during this pre-alpha phase.\n  </p>\n\n    <h2 id=\"eryxian-tcg\">\n      Eryxian TCG\n    </h2>\n\n  <p>\n    Eryxian Now on Tablets! Unleash cosmic horror on a grander scale. Pre-alpha: Optimized for Android tablets.\n  </p>\n<div><p>\n<div class=\"btn-group\"><a href=\"https://eryxgames.itch.io/\" class=\"button\">DOWNLOAD Eryxian TCG</a> </a>\n<div class=\"btn-group\">&nbsp;</div>\n</p></div>\n\n  <p>\n    Unleash the Horror in Stunning Detail!  Eryxian, the Lovecraftian card game, arrives on Windows PC.\n  </p>\n<div><p>\n<div class=\"btn-group\"><a href=\"https://eryxgames.itch.io/\" class=\"button\">DOWNLOAD Eryxian TCG</a> </a>\n<div class=\"btn-group\">&nbsp;</div>\n</p>\n</div>\n\n  <p>\n    Craft Your Deck, Craft Your Fun! Free Eryx Print &amp; Play: unleash cosmic horror with a DIY deckbuilding card game experience.\n  </p>\n<div><p>\n<div class=\"btn-group\"><a href=\"https://eryxgames.itch.io/\" class=\"button\">DOWNLOAD Eryxian TCG PRINT2PLAY FILES</a> </a>\n<div class=\"btn-group\">&nbsp;</div>\n</p>\n</div>\n\n  <p class=\"msg msg--warning\">\n    Welcome to the Pre-Alpha! Eryxian&nbsp; TCG is currently in development. Things might be a bit... rough around the edges. Expect bugs, incomplete features, and potential balance issues. Your feedback is invaluable!\n  </p>\n\n    <h2 id=\"eryxian-civilizations-tcg\">\n      Eryxian Civilizations TCG\n    </h2>\n\n  <p>\n    Eryxian Civilizations, a new strategic card game, is currently in development as a complementary to the Eryxian game and the second instalment in the Eryxian trilogy.\n  </p>\n\n  <p>\n    &nbsp;\n  </p>",
-            "author": {
-                "name": "Eryx Games"
-            },
-            "tags": [
-                   "download",
-                   "development"
-            ],
-            "date_published": "2024-06-13T20:45:53+02:00",
-            "date_modified": "2024-08-04T19:58:32+02:00"
-        },
-        {
             "id": "https://eryxian.com/public-beta-of-eryx-tcg-new-factions-and-strategies.html",
             "url": "https://eryxian.com/public-beta-of-eryx-tcg-new-factions-and-strategies.html",
             "title": "Public Beta of Eryxian TCG: New Factions and Strategies",
@@ -54,50 +24,6 @@
             ],
             "date_published": "2024-06-11T17:39:08+02:00",
             "date_modified": "2024-08-02T17:12:21+02:00"
-        },
-        {
-            "id": "https://eryxian.com/test-post.html",
-            "url": "https://eryxian.com/test-post.html",
-            "title": "Test Post",
-            "summary": "Without featured image",
-            "content_html": "\n  <p>\n    Without featured image\n  </p>",
-            "author": {
-                "name": "Eryx Games"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-06-04T21:48:49+02:00",
-            "date_modified": "2024-06-10T22:02:37+02:00"
-        },
-        {
-            "id": "https://eryxian.com/card-test-online.html",
-            "url": "https://eryxian.com/card-test-online.html",
-            "title": "Card Test Online",
-            "summary": "Online server running. Worldbuilding for science fiction game. Eryx. A name whispered on a thousand barren worlds, a beacon of luminescence in the&hellip;",
-            "content_html": "\n    <h2 id=\"online-server-running\">\n      Online server running.\n    </h2>\n\n  <p>\n    Worldbuilding for science fiction game. Eryx. A name whispered on a thousand barren worlds, a beacon of luminescence in the unforgiving expanse. Its emerald bioluminescent flora pulsed beneath a perpetual twilight sky, painting the landscape in an alien tapestry. Colossal, crystalline lifeforms pierced the clouds, their surfaces etched with arcane symbols that defied comprehension. Here, fantastical creatures stalked the twilight jungle, their forms a bizarre fusion of familiar and alien. Yet, this strange beauty masked a deeper mystery.\n  </p>\n\n    <h2 id=\"andnbspthe-eryxians-an-ancient-race-shrouded-in-legend\">\n      &nbsp;The Eryxians, an ancient race shrouded in legend\n    </h2>\n\n  <p>\n    , were said to possess psionic abilities that rivaled the gods themselves. Their enigmatic cities, half-buried by the encroaching jungle, pulsed with an unseen energy, a testament to a forgotten glory. You stand at the precipice of this world, a lone operative amidst the whispering secrets of Eryn.\n  </p>\n\n  <p class=\"msg msg--info\">\n    Will you venture forth as a hardened human recon soldier, a stoic member of the robotic collective, or perhaps, a descendant of the Eryxians themself, awakened to a forgotten legacy? The choice is yours, operative. The fate of Eryx hangs in the balance.\n  </p>",
-            "image": "https://eryxian.com/media/posts/4/cardtest.png",
-            "author": {
-                "name": "Eryx Games"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-06-04T20:05:58+02:00",
-            "date_modified": "2024-06-04T21:49:34+02:00"
-        },
-        {
-            "id": "https://eryxian.com/new-ancients-card.html",
-            "url": "https://eryxian.com/new-ancients-card.html",
-            "title": "New Ancients Card",
-            "summary": "\n  <p>\n    This is the new card added&nbsp;\n  </p>\n",
-            "content_html": "\n  <p>\n    This is the new card added&nbsp;\n  </p>\n\n\n  <p>\n    \n  </p>",
-            "image": "https://eryxian.com/media/posts/3/frame_gold.png",
-            "author": {
-                "name": "Eryx Games"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-06-04T19:49:22+02:00",
-            "date_modified": "2024-08-04T20:11:03+02:00"
         },
         {
             "id": "https://eryxian.com/eryx-design-the-game-world.html",
@@ -147,8 +73,8 @@
             "id": "https://eryxian.com/eryx-tcg-alpha.html",
             "url": "https://eryxian.com/eryx-tcg-alpha.html",
             "title": "Eryxian TCG Pre-Alpha",
-            "summary": "\n  <p>\n    Gear Up, Explorers, Eryx Descends on Android! The pre-alpha for Eryxian, the chilling deckbuilding card game, is here! Dive into a world of cosmic horror and experience early gameplay mechanics.&nbsp;Be among the first to explore the enigmatic world and encounter its lurking horrors.\n  </p>\n",
-            "content_html": "\n  <p>\n    Gear Up, Explorers, Eryx Descends on Android! The pre-alpha for Eryxian, the chilling deckbuilding card game, is here! Dive into a world of cosmic horror and experience early gameplay mechanics.&nbsp;Be among the first to explore the enigmatic world and encounter its lurking horrors.\n  </p>\n\n\n    <h2 id=\"descendant-of-the-eryxians\">\n      Descendant of the Eryxians\n    </h2>\n\n  <p>\n    The pull towards the ruined city was undeniable. It wasn't just a logical choice, it was a thrumming in your very being, a song sung in a language your ancestors spoke but your conscious mind had forgotten. Ignoring the warnings flashing on your neural interface about the dangers of venturing into unknown territory, you set off towards the west.\n  </p>\n\n  <p>\n    The jungle thinned as you neared the city, replaced by a desolate landscape of cracked earth and shattered crystal formations. The air crackled with a faint electrical energy, making the hairs on your arms stand on end. As you approached the city gates, colossal structures etched with swirling glyphs loomed before you. The glyphs shimmered with an inner light, pulsing in rhythm with the energy signature you were tracking.<br><br>A strange sense of familiarity washed over you as you placed your hand on the cool surface of the gate. The glyphs flared, bathing you in a blinding white light. When your vision cleared, you found yourself standing not outside the city, but within. The once grand halls were overgrown with strange, bioluminescent vines, and the air hung heavy with the scent of decay. Yet, amidst the ruins, there was a hum of residual power, a whisper of a glorious past.<br><br>Suddenly, a voice echoed through your mind, a voice both ancient and strangely comforting. It spoke in a language you didn't understand, yet somehow comprehended. It spoke of a forgotten legacy, of a dormant power waiting to be awakened. The voice urged you to venture deeper, to the heart of the city, where the true source of the energy signature lay.\n  </p>\n\n    <h2 id=\"do-you\">\n      Do you:\n    </h2>\n\n  <p>\n    <strong>Follow the voice:</strong> Driven by the promise of awakening your forgotten heritage, you delve deeper into the ruined city, following the voice's guidance. <strong>(download the game)</strong><br><strong>Investigate the source of the voice: </strong>While the voice seems benevolent, you remain cautious. You decide to locate the source of the voice before blindly following its instructions.<strong> (see rulebook)</strong>\n  </p>\n\n  <p class=\"msg msg--warning\">\n    While the voice seems benevolent, you remain cautious. You decide to locate the source of the voice before blindly following its instructions.\n  </p>",
+            "summary": "\n  <p>\n    Gear Up, Explorers, Eryx Descends on Android! The pre-alpha for Eryxian, the chilling deckbuilding card game, is here! Dive into a world of cosmic horror and experience early gameplay mechanics.&nbsp;Be among the first to explore the enigmatic world and encounter its lurking horrors. Lear more about the game world on <a href=\"https://github.com/eryxgames/Eryxian/wiki\" target=\"_blank\" rel=\"nofollow noopener\">Eryxian Wiki</a>.&nbsp;\n  </p>\n",
+            "content_html": "\n  <p>\n    Gear Up, Explorers, Eryx Descends on Android! The pre-alpha for Eryxian, the chilling deckbuilding card game, is here! Dive into a world of cosmic horror and experience early gameplay mechanics.&nbsp;Be among the first to explore the enigmatic world and encounter its lurking horrors. Lear more about the game world on <a href=\"https://github.com/eryxgames/Eryxian/wiki\" target=\"_blank\" rel=\"nofollow noopener\">Eryxian Wiki</a>.&nbsp;\n  </p>\n\n\n    <h2 id=\"descendant-of-the-eryxians\">\n      Descendant of the Eryxians\n    </h2>\n\n  <p>\n    The pull towards the ruined city was undeniable. It wasn't just a logical choice, it was a thrumming in your very being, a song sung in a language your ancestors spoke but your conscious mind had forgotten. Ignoring the warnings flashing on your neural interface about the dangers of venturing into unknown territory, you set off towards the west.\n  </p>\n\n  <p>\n    The jungle thinned as you neared the city, replaced by a desolate landscape of cracked earth and shattered crystal formations. The air crackled with a faint electrical energy, making the hairs on your arms stand on end. As you approached the city gates, colossal structures etched with swirling glyphs loomed before you. The glyphs shimmered with an inner light, pulsing in rhythm with the energy signature you were tracking.<br><br>A strange sense of familiarity washed over you as you placed your hand on the cool surface of the gate. The glyphs flared, bathing you in a blinding white light. When your vision cleared, you found yourself standing not outside the city, but within. The once grand halls were overgrown with strange, bioluminescent vines, and the air hung heavy with the scent of decay. Yet, amidst the ruins, there was a hum of residual power, a whisper of a glorious past.<br><br>Suddenly, a voice echoed through your mind, a voice both ancient and strangely comforting. It spoke in a language you didn't understand, yet somehow comprehended. It spoke of a forgotten legacy, of a dormant power waiting to be awakened. The voice urged you to venture deeper, to the heart of the city, where the true source of the energy signature lay.\n  </p>\n\n    <h2 id=\"do-you\">\n      Do you:\n    </h2>\n\n  <p>\n    <strong>Follow the voice:</strong> Driven by the promise of awakening your forgotten heritage, you delve deeper into the ruined city, following the voice's guidance. <strong>(download the game)</strong><br><strong>Investigate the source of the voice: </strong>While the voice seems benevolent, you remain cautious. You decide to locate the source of the voice before blindly following its instructions.<strong> (see rulebook)</strong>\n  </p>\n\n  <p class=\"msg msg--warning\">\n    While the voice seems benevolent, you remain cautious. You decide to locate the source of the voice before blindly following its instructions.\n  </p>",
             "image": "https://eryxian.com/media/posts/1/eryxian-titlepageeryxalpha2b.png",
             "author": {
                 "name": "Eryx Games"
@@ -156,7 +82,7 @@
             "tags": [
             ],
             "date_published": "2024-05-14T16:45:15+02:00",
-            "date_modified": "2024-08-02T17:12:55+02:00"
+            "date_modified": "2025-02-26T15:12:29+01:00"
         }
     ]
 }
