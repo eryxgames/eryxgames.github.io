@@ -29,12 +29,16 @@
 </image:image>
 </url>
 <url>
+<loc>https://eryxian.com/development-notes.html</loc>
+<lastmod>2025-08-05T18:22:01+02:00</lastmod>
+</url>
+<url>
 <loc>https://eryxian.com/download-the-latest-versions.html</loc>
 <lastmod>2024-08-04T19:58:32+02:00</lastmod>
 </url>
 <url>
 <loc>https://eryxian.com/eryx-design-the-game-world.html</loc>
-<lastmod>2024-08-02T17:13:37+02:00</lastmod>
+<lastmod>2025-02-28T11:23:22+01:00</lastmod>
 <image:image>
 <image:loc>https://eryxian.com/media/posts/2/eryxgame-illustration01.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -42,7 +46,7 @@
 </url>
 <url>
 <loc>https://eryxian.com/eryx-tcg-alpha.html</loc>
-<lastmod>2025-02-26T15:12:29+01:00</lastmod>
+<lastmod>2025-02-28T11:35:10+01:00</lastmod>
 <image:image>
 <image:loc>https://eryxian.com/media/posts/1/eryxian-titlepageeryxalpha2b.png</image:loc>
 <image:title><![CDATA[Eryxian Card Game Logo]]></image:title>
@@ -50,7 +54,11 @@
 </url>
 <url>
 <loc>https://eryxian.com/gameplay-and-rules.html</loc>
-<lastmod>2025-02-26T15:10:23+01:00</lastmod>
+<lastmod>2025-08-05T16:55:45+02:00</lastmod>
+</url>
+<url>
+<loc>https://eryxian.com/github-and-wiki-sources.html</loc>
+<lastmod>2025-02-27T14:35:32+01:00</lastmod>
 </url>
 <url>
 <loc>https://eryxian.com/new-ancients-card.html</loc>
@@ -59,6 +67,10 @@
 <image:loc>https://eryxian.com/media/posts/3/frame_gold.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://eryxian.com/news.html</loc>
+<lastmod>2025-08-05T18:28:51+02:00</lastmod>
 </url>
 <url>
 <loc>https://eryxian.com/page/2/</loc>
@@ -77,6 +89,6 @@
 </url>
 <url>
 <loc>https://eryxian.com/the-story-of-eryx-a-lovecraftian-fable.html</loc>
-<lastmod>2024-08-04T20:12:31+02:00</lastmod>
+<lastmod>2025-02-28T11:42:41+01:00</lastmod>
 </url>
 </urlset>
