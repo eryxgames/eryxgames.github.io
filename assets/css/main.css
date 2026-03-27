@@ -1181,10 +1181,10 @@ table tbody tr {
   border-color: #eeeeee9a;
 }
 table tbody tr:nth-child(2n+1) {
-  background-color: rgba(220, 220, 220, 0.25);
+  background-color: rgba(189, 189, 189, 0.019);
 }
 table th {
-  color: #212931;
+  color: #405265;
 }
 table thead {
   border-bottom-color: #eeeeee;
@@ -1622,12 +1622,12 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   height: 4rem;
   line-height: 4rem;
   margin: -4rem auto 0 auto;
-  overflow: hidden;
+  overflow: visible !important;
   padding: 0 2rem 0 0;
   position: relative;
   width: calc(100% - 4rem);
   max-width: 72rem;
-  z-index: 2;
+  z-index: 10000 !important;
 }
 #nav ul.divided li {
   border-top-color: #ffffff;
@@ -2925,6 +2925,70 @@ hr::before,
     margin-top: 0;
   }
 }
+
+/* Position the parent item */
+#nav .links > li {
+    position: relative !important;
+    overflow: visible !important;
+}
+
+/* Hide the submenu by default */
+#nav .nav__submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #ffffff; /* Change to match your theme color */
+    min-width: 200px;
+    z-index: 999999 !important; /* Ensure it stays on top of everything */
+    list-style: none;
+    padding: 10px 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* This "pseudo-element" fills the gap so the menu stays open while moving the mouse */
+#nav .nav__submenu::before {
+    content: '';
+    position: absolute;
+    top: -15px; /* Adjust based on your nav bar height */
+    left: 0;
+    width: 100%;
+    height: 15px;
+    display: block;
+}
+
+
+/* Show the submenu on hover */
+#nav .links li:hover > .nav__submenu {
+    display: block;
+}
+
+/* Style the submenu links */
+#nav .nav__submenu li {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#nav .nav__submenu li a {
+    display: block !important;
+    padding: 12px 20px !important; /* Vertical and horizontal padding */
+    color: #b6b5b5 !important;
+    background: rgba(255, 255, 255, 0.1) !important;
+    text-transform: uppercase !important;
+    font-size: 0.85rem !important;
+    line-height: 1.4 !important;
+    border: none !important;
+    text-align: left;
+    white-space: nowrap;
+}
+
+/* 5. Highlight on hover */
+#nav .nav__submenu li a:hover {
+    background: rgba(255, 255, 255, 0.1) !important;
+    color: #ffffff !important;
+}
+
 
 /* Nav Panel */
 #navPanelToggle {

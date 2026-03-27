@@ -3,12 +3,75 @@
     <title>Eryxian </title>
     <link href="https://eryxian.com/feed.xml" rel="self" />
     <link href="https://eryxian.com" />
-    <updated>2026-02-26T08:34:10+01:00</updated>
+    <updated>2026-03-27T11:36:17+01:00</updated>
     <author>
         <name>Eryx Games</name>
     </author>
     <id>https://eryxian.com</id>
 
+    <entry>
+        <title>Xenotikon of Eryxian Ecosystem</title>
+        <author>
+            <name>Eryx Games</name>
+        </author>
+        <link href="https://eryxian.com/xenotikon-eryxian-ecosystem-2.html"/>
+        <id>https://eryxian.com/xenotikon-eryxian-ecosystem-2.html</id>
+        <media:content url="https://eryxian.com/media/posts/20/xenotikon-illus02.png" medium="image" />
+            <category term="Stories"/>
+
+        <updated>2026-03-27T07:55:09+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://eryxian.com/media/posts/20/xenotikon-illus02.png" alt="Eryxian ecosystem illustration, featuring xenohyena ripper and gastropoid swarm, illustration by Daniel Sandner." />
+                    An introduction to the first systematic attempt to document what lives on Eryxia — and why "systematic" is doing considerable work in that&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://eryxian.com/media/posts/20/xenotikon-illus02.png" class="type:primaryImage" alt="Eryxian ecosystem illustration, featuring xenohyena ripper and gastropoid swarm, illustration by Daniel Sandner." /></p>
+                <p class="article-lead"><em>An introduction to the first systematic attempt to document what lives on Eryxia — and why "systematic" is doing considerable work in that sentence.</em></p>
+
+<hr>
+<blockquote class="field-log">
+<p>"I have submitted four classification proposals this season. Two were rejected on definitional grounds, one was rejected because the creature in question had changed sufficiently between my initial observation and peer review that the reviewers argued I was describing a different organism, and one was accepted provisionally — pending a note clarifying whether I believe it is actually alive in the conventional sense. I have filed the note. I am not certain of my answer."</p>
+<footer>— Dr. Yenna Calatrava, Xenological Society, Field Season Three debrief</footer>
+</blockquote>
+
+<hr>
+<p>Eryxia does not have a bestiary. A bestiary describes animals. What lives on Eryxia is not, in most cases, reducible to the category of <em>animal</em> — or to any single category at all. The <strong>Xenotikon</strong> is the ERYX Initiative’s ongoing attempt to document Eryxian lifeforms as what they actually are: organisms that are also systems, whose biology, life cycle, and relationship to the planet’s hyperevolutionary pressures define everything about how they behave and what they become.</p><p>It is an incomplete document. It will remain incomplete. The Chaos Cycle — the periodic cataclysm driven by the gravitational influence of Khao, the system’s distant third star — ensures that some entries documented before a Cycle event will not match anything observable after it, and that new entries will require filing. This is not a flaw in the compendium. It is the correct relationship to a planet that does not hold still.</p><p><strong>Xenotikon Compendium</strong> for TTRPG is <a href="https://eryxian.com/eryxian-xenotikon.html">more elaborated in this article</a>.</p><p>
+<div class="btn-group"><a href="https://github.com/eryxgames/Eryxian/wiki" class="button">Eryxian Wiki</a> </a>
+<div class="btn-group">&nbsp;</div>
+</p>
+
+<hr>
+<h2 id="a-world-that-selects-for-the-extraordinary">A World That Selects for the Extraordinary</h2>
+<p>To understand any individual Eryxian lifeform, it helps to understand the pressures that produced it.</p><p>Eryxia orbits within the Athe system, a trinary stellar arrangement that provides not one but three distinct sources of radiation and gravitational influence. <strong>Athe</strong>, the primary star, supplies the stable baseline that makes surface life possible at all. <strong>Nyx</strong>, a red dwarf with an eccentric orbit, arrives seasonally — the <em>Nyx Season</em> — bringing elevated radiation that Eryxian life does not merely survive but uses. The planet’s organisms are foundationally radiotrophic: specialized biological pigments harvest stellar radiation as a direct energy source, operating alongside or instead of photosynthetic processes. The hyperjungles of the breathable zone are not green. They are metallic, chromatic, and iridescent in ways that make terrestrial researchers reach for their instruments before they finish reaching for their field notes.</p><p><strong>Khao</strong>, the third star, is responsible for the Chaos Cycle. Its millennia-long orbital passage exerts gravitational and radiative pressures that periodically restructure the evolutionary landscape of the entire planet. Organisms that have been stable for generations are suddenly operating under new conditions. The remarkable thing is not that the Chaos Cycle produces extinction events. It is that Eryxian life, over deep time, has become extraordinarily good at treating those events as an opportunity.</p><p>The breathable zone itself shapes everything below it. Eryxia’s dense layered atmosphere confines habitable conditions to a specific altitude band — above it, pressure fails; below, the atmospheric chemistry becomes hostile to humanoid biology. The hyperjungles, moors, freeze-jungles, and swamp systems that constitute the majority of documented biomes all exist within this band. There is, in an ecological sense, nowhere else to go. Every organism has had to learn to coexist with, exploit, absorb, or become whatever else lives within the same altitude range. The competitive and cooperative pressures this creates are, to put it mildly, significant.</p><blockquote class="field-log">
+<p>"The samples we took at the bog margin on day three were still reacting to stimuli on day eleven. We have not determined whether this represents an unusually resilient tissue response or whether we should update our definition of 'sample.' The distinction has meaningful ethical implications. We are choosing not to address them until we return to base camp."</p>
+<footer>— Field Technician Rasul Csaba, ERYX Initiative Moor Survey, entry 14</footer>
+</blockquote>
+
+<hr>
+<h2 id="the-architecture-of-transformation">The Architecture of Transformation</h2>
+<p>The principle that most distinguishes Eryxian biology from any terrestrial model is its treatment of developmental change — not as a fixed progression from larva to adult, but as a continuous, environmentally responsive negotiation between an organism’s genetic potential and the current demands of its situation.</p><p>Every complex Eryxian lifeform begins as a relatively simple, mobile form with generalist capabilities and high genetic plasticity. What it becomes is not predetermined. It responds to radiation levels during Nyx Season, to chemical signals from prey or competitors, to physical pressures, to the genetic material it absorbs through Eryxia’s pervasive horizontal gene transfer networks. The same starting form, exposed to different conditions, can produce radically different terminal organisms. The Bloodfly Queen is not a larger Bloodfly — she is a Bloodfly that a particular set of colony pressures transformed into something categorically different. The Alpha Ripper achieves magnetodynamic abilities through a dominance-driven developmental pathway that Betas in the same pack do not share.</p><p>Crucially, these transformations are potentially reversible. An organism that has shifted toward heavy armour under competitive pressure may shed aspects of that form if conditions change. This is not regression; it is the same adaptive responsiveness operating in a different direction. The Xenotikon’s life cycle entries reflect this by treating each stage as a distinct entry connected by explicit chain notation — and by documenting trigger conditions wherever they are known, because the trigger is often the most important information available.</p><p>The Chaos Cycle does not merely threaten these organisms. It accelerates the process to an extent that makes post-Cycle survey data largely incompatible with pre-Cycle baselines. Researchers who have attempted to compare the two have filed notes ranging from “significant morphological divergence” to “I do not believe this is the same species” to, in one documented case, simply a question mark submitted as a formal addendum.</p><hr>
+<h2 id="how-the-xenotikon-classifies">How the Xenotikon Classifies</h2>
+<p>Because Eryxian lifeforms resist single-axis description, the Xenotikon employs <strong>six classification axes</strong> simultaneously. Together they define not just what a creature is, but how it behaves, where it fits in the food web, and what it does when encountered by researchers, hunters, or anyone else unfortunate enough to be in the same zone.</p><p><strong>Biological Class</strong> establishes the broadest structural category: arthropoid, chordate, mycelial, cephalopoid, labyrinthine, colonial, and several classes that exist primarily because the organisms assigned to them actively resist more specific categorisation. The <em>Undefined</em> designation is not a placeholder. It is the Xenotikon’s acknowledgment that some organisms have made their position on human taxonomy clear.</p><p><strong>Ecological Niche</strong> describes where in the food web the organism operates and how that position shapes its default behaviour. An apex predator and a sentinel organism may be equally dangerous in an encounter, but for different reasons and with entirely different dynamics. A decomposer that feeds on defeated matter and triggers further transformation events in the zone is a mechanical factor in ways that exceed its apparent threat level.</p><p><strong>Scale Tier</strong> situates the organism within the broader size and threat hierarchy — from microscopic colonial organisms forming atmospheric plankton layers to apex megafauna whose territorial ranges span multiple operational theaters.</p><p><strong>Life Cycle Stage</strong> accounts for the fact that a juvenile and a mature specimen of the same lineage may present as entirely different threats. A Spawner colony is a puzzle. The Spawn it produces is a reckoning. The Xenotikon documents the chain, not just the end point.</p><p><strong>Technology Relationship</strong> records how the organism responds to equipment, machinery, and the various technological artefacts left behind by civilisations that have passed through this system. Some organisms disrupt technology. Some are attracted to energy signatures. Some incorporate abandoned machinery into their biology through the same adaptive processes that shape everything else about them. The Nethermancer does something to active equipment that seven separate research teams have attempted to describe mechanistically. None of the descriptions agree.</p><p><strong>Ancient Connection</strong> addresses the subset of organisms that behave in ways consistent with deliberate design — not evolved, but engineered, shaped, or still responding to systems installed by the civilisation that preceded everything currently documented on Eryxia. The Octogoth has no traceable evolutionary lineage. The Living Labyrinth responds to Ancient signals in ways that the ERYX Initiative’s instruments can detect but not explain. The Nethermancer may not be a biological organism in any meaningful sense. The Xenotikon preserves all possibilities. The evidence has not yet closed any of them.</p><blockquote class="field-log">
+<p>"We asked the senior Conclave hunter what the creature's weak point was. She considered this for a while and said: 'It does not have one yet. Check again after it has had a chance to know you.' We have logged this as behavioural data. It has not stopped being unsettling."</p>
+<footer>— Research Lead Tobia Orben, ERYX Initiative, field consultation notes</footer>
+</blockquote>
+
+<hr>
+<h2 id="what-the-conclave-already-knows">What the Conclave Already Knows</h2>
+<p>The ERYX Initiative spent considerable resources developing classification frameworks before anyone formally consulted the Conclave about what they already called these things, what they already knew about them, and how they had already been living alongside them for generations.</p><p>The Conclave’s approach to the creatures of Eryxia is relational rather than taxonomic. An organism is understood by what it does to its environment — what it protects, what it hunts, what the Chaos Cycle has done to its lineage, and what ritual relationship the Conclave has developed in response. Some creatures are hunted. Some are protected. Some are sacred. The Hydra occupies an unusual position in all three categories simultaneously, and the Conclave considers this entirely consistent.</p><p>The Xenotikon now incorporates Conclave relational knowledge alongside ERYX Initiative mechanical profiles. Where the two systems disagree — and they do, on matters ranging from classification to intent to whether certain organisms should be approached at all — both entries are preserved. The planet has not issued a correction to either party. Both, in the current assessment, may be correct.</p><hr>
+<h2 id="an-incomplete-compendium">An Incomplete Compendium</h2>
+<p>The full Xenotikon documents confirmed lifeforms across Eryxia’s major biomes: the apex predators of the hyperjungles, the colonial organisms whose threat scales with group size, the environmental entities that are less creatures than they are ecological events, and the Undefined category that exists because some organisms have made their preference for remaining unclassified into something that functions, mechanically, as a defence.</p><p>Each entry includes a behaviour profile, a life cycle chain where documented, a technology relationship, and notes on what the Conclave calls it and why. Each entry also includes what a defeated specimen yields — because in a hyperevolutionary ecosystem, even the biology of a dead organism is information, and that information is often more useful than the classification that preceded it.</p><p>The compendium is not exhaustive. It cannot be. But it is the most thorough account currently available of what lives on Eryxia, how it came to be what it is, and what it is likely to do next.</p><p>Which is the most anyone has managed to say about this planet with confidence.</p><hr>
+<p class="xenotikon-footer"><em>Xenotikon: Eryxian Lifeform Compendium is the creature reference system for the <strong>Eryxian TCG</strong> and the forthcoming <strong>Eryxian TTRPG</strong>, currently in development. The full compendium entries — including stat blocks, life cycle chains, encounter guidance, and loot profiles — are part of the Eryxian game ecosystem. Follow development at <a href="https://github.com/eryxgames/Eryxian/wiki">the Eryxian Wiki</a>.</em></p>
+
+<hr>
+<p><em>© Daniel Sandner 2024–2025 · Eryxian Universe · CC BY-SA 4.0</em>
+<em>“Classification is a human impulse. The planet files nothing.”</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Public Beta of Eryxian TCG: New Factions and Strategies</title>
         <author>
@@ -19,7 +82,7 @@
         <media:content url="https://eryxian.com/media/posts/6/eryxian_game_beta.png" medium="image" />
 
         <updated>2024-06-11T17:39:08+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://eryxian.com/media/posts/6/eryxian_game_beta.png" alt="Eryx TCG: Free card game with online dueling" />
                     Calling All Sci-Fi Strategists: Eryxian TCG Enters Open Beta with New Content and Platforms! Attention spacefarers and fantasy warriors! Buckle up and prepare&hellip;
@@ -42,8 +105,12 @@
     </h2>
 
   <p>
-    For those eager to delve deeper, be sure to check out the development notes outlining the latest additions and upcoming features together with concept artworks and designs.&nbsp;
+    For those eager to delve deeper, be sure to check out the development notes outlining the latest additions and upcoming features together with concept artworks and designs. Updated Public Beta (Eryxian Legacy): The game will be freely available for download from May 1st 2026 on itch.io:&nbsp;&nbsp;
   </p>
+<div><p>
+<div class="btn-group"><a href="https://eryxian.itch.io/" class="button">Eryxian Legacy TCG</a> </a>
+<div class="btn-group">&nbsp;</div>
+</p></div>
             ]]>
         </content>
     </entry>
@@ -57,7 +124,7 @@
         <media:content url="https://eryxian.com/media/posts/2/eryxgame-illustration01.png" medium="image" />
 
         <updated>2024-05-18T16:52:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://eryxian.com/media/posts/2/eryxgame-illustration01.png" alt="" />
                     Worldbuilding for science fiction game.&nbsp; Players can create their own cards using provided Rules &amp; Lore Book (for Print2Play Edition), using own graphics&hellip;
@@ -77,7 +144,7 @@
 
   <ul>
     <li>Duel deckbuilding card game for 2 players
-</li><li>Can be played from custom decks as online CCG (Collectible Card Game) or as an offline solo adventure with a storyline</li>
+</li><li>Can be played from custom decks as online CCG (Collectible Card Game, TCG version currently in alpha) or as an offline solo adventure with a storyline</li>
   </ul>
 
   <p>
@@ -89,11 +156,11 @@
     </h2>
 
   <p>
-    On the fringe of explored space, where the tendrils of charted civilization fray into the unknown, lies the desolate planet Eryx. Scarred by the Collective conflict, humankind seek resources for a battered Earth. Extraterrestrial Reconnaissance &amp; Yield Xenobiology (ERYX) project is found and sent to reestablish outposts, mining facilities and xenoarcheology sites on the planet and protoplanetary asteroid rings in the system. But Eryx holds sinister surprises.
+    On the fringe of explored space, where the tendrils of charted civilization fray into the unknown, lies the desolate planet Eryxia. Scarred by the Collective conflict, humankind seek resources for a battered Earth. Extraterrestrial Reconnaissance &amp; Yield Xenobiology (ERYX) project is found and sent to reestablish outposts, mining facilities and xenoarcheology sites on the planet and protoplanetary asteroid rings in the system. But Eryxia holds sinister surprises.
 <br>
-<br>Here, twisted flora and fauna serve the enigmatic Eryxians, while brutal Collective's extermination units are establishing its presence on the planet. The struggle for resources once hardened humanity, but the darkness of Eryx twists their resolve. Now, they fight not just for survival, but against the insidious whispers that threaten to corrupt their very souls.
+<br>Here, twisted flora and fauna serve the enigmatic Eryxians, while brutal Collective's extermination units are establishing its presence on the planet. The struggle for resources once hardened humanity, but the darkness of Eryxia twists their resolve. Now, they fight not just for survival, but against the insidious whispers that threaten to corrupt their very souls.
 <br>
-<br>Whispers of the Ancients, cosmic horrors from beyond the stars, fuel the planet's malevolent aura. Can humanity survive this desolate crucible, or will they succumb to the madness within Eryx's ancient ruins?
+<br>Whispers of the Ancients, cosmic horrors from beyond the stars, fuel the planet's malevolent aura. Can humanity survive this desolate crucible, or will they succumb to the madness within Eryxia's ancient ruins?
 <br>
 
   </p>
@@ -114,7 +181,7 @@
   </p>
 
   <p>
-    Your descent through Eryx's atmosphere jolted you awake. The rickety dropship groaned in protest, the viewscreen flickering with glimpses of the alien landscape rushing towards you. A klaxon blared, red emergency lights bathing the cramped interior in an ominous glow. The pilot, a grizzled veteran with a cybernetic eye, barked orders over the comms. "Unidentified energy signature detected! Brace for hard landing!"<br><br>The impact sent you sprawling. Disoriented, you clambered from the wreckage, the alien air thick and humid. Strange chittering sounds echoed from the jungle, and a bioluminescent vine whipped past your face, its touch sending a jolt through your nervous system.  This wasn't just any recon mission. This was a descent into the unknown, a chance to unravel the mysteries of Eryx and its enigmatic inhabitants. The question gnawed at you - were the Eryxians allies, or a forgotten power waiting to be awakened?  As you scanned your surroundings, the weight of your decision settled on your shoulders. The fate of the mission, and perhaps Eryx itself, rested on your choice.
+    Your descent through Eryxia's atmosphere jolted you awake. The rickety dropship groaned in protest, the viewscreen flickering with glimpses of the alien landscape rushing towards you. A klaxon blared, red emergency lights bathing the cramped interior in an ominous glow. The pilot, a grizzled veteran with a cybernetic eye, barked orders over the comms. "Unidentified energy signature detected! Brace for hard landing!"<br><br>The impact sent you sprawling. Disoriented, you clambered from the wreckage, the alien air thick and humid. Strange chittering sounds echoed from the jungle, and a bioluminescent vine whipped past your face, its touch sending a jolt through your nervous system.  This wasn't just any recon mission. This was a descent into the unknown, a chance to unravel the mysteries of Eryxia and its enigmatic inhabitants. The question gnawed at you - were the Eryxians allies, or a forgotten power waiting to be awakened?  As you scanned your surroundings, the weight of your decision settled on your shoulders. The fate of the mission, and perhaps Eryxia itself, rested on your choice.
   </p>
 
   <p>
@@ -130,34 +197,56 @@
         </author>
         <link href="https://eryxian.com/the-story-of-eryx-a-lovecraftian-fable.html"/>
         <id>https://eryxian.com/the-story-of-eryx-a-lovecraftian-fable.html</id>
-            <category term="stories"/>
+        <media:content url="https://eryxian.com/media/posts/8/intro-illus03.png" medium="image" />
+            <category term="Stories"/>
 
         <updated>2024-05-17T18:00:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
+                        <img src="https://eryxian.com/media/posts/8/intro-illus03.png" alt="Dropship with supplies is taking off from jungle planet Eryxia" />
                     On the desolate wasteland and jungles of Eryxia, humanity clings to survival. Frail scientist-scavengers and hardened military outposts scrape for resources - luminous&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://eryxian.com/media/posts/8/intro-illus03.png" class="type:primaryImage" alt="Dropship with supplies is taking off from jungle planet Eryxia" /></p>
                 
     <blockquote class="blockquote">
-      On the desolate wasteland and jungles of Eryxia, humanity clings to survival. Frail scientist-scavengers and hardened military outposts scrape for resources - luminous crystals and enigmatic artifacts - amidst the ruins of the once-great Eryxian civilization. But they're not alone. The rogue AI Collective, cyborgs obsessed with uploading their consciousness into the code rumored to lie within the ruins, stalks the shadows. The Eryxians, enigmatic beings who seem to control the planet's hostile flora and fauna, jealously guard their secrets. And looming over it all are whispers of the Ancients, malevolent gods from beyond the stars, whose hunger for souls threatens to consume everything. In this desperate struggle for survival and forbidden knowledge, who will claim dominion over the broken remnants of Eryxia?
+      On the desolate wasteland and jungles of Eryxia, humanity clings to survival. Frail scientist-scavengers and hardened military outposts scrape for resources - luminous crystals and enigmatic artifacts - amidst the ruins of the once-great Eryxian civilization. But they're not alone. The rogue AI Collective, cyborgs obsessed with uploading their consciousness into the code rumored to lie within the ruins, stalks the shadows. The Eryxians, enigmatic beings who seem to be able to control the planet's hostile flora and fauna, carefully guard their secrets. And looming over it all are whispers of the long gone Ancients, malevolent gods from beyond the stars, whose hunger for souls threatens to consume everything. In this desperate struggle for survival and forbidden knowledge, who will claim dominion over the broken remnants of Eryxia?
     </blockquote>
 
-    <h2 id="eryxian-a-crucible-of-worlds">
-      Eryxian: A Crucible of Worlds
+    <h2 id="eryxian-a-cache-of-lost-worlds">
+      Eryxian: A Cache of Lost Worlds
     </h2>
 
   <p>
     
 <br>A new day on Eryxia. The light of three suns, filtered through a haze of toxic gases and swirling cloud layers, casts an unsettling twilight across the landscape, filtered through the shifting, bioluminescent canopy of the upper jungle. It's a world of contradictions: a vibrant, overgrown jungle teeming with life, yet scarred by ancient conflicts and the relentless machinery of interstellar factions. They call it a resource-rich prize, a strategic asset, a stepping stone to their own, often conflicting, ambitions. But Eryxia doesn't give up its secrets easily.
-<br>
-<br>You arrived expecting a routine deployment. A survey mission, perhaps. Resource assessment. Maybe even "pacification" of some troublesome natives. The official briefings were filled with the usual corporate-speak and military jargon, sanitized for your consumption. They spoke of opportunity, of progress, of bringing order to chaos. They didn't mention the way the wind seems to carry voices, just beyond the range of human hearing. They did not mention the rumours of unexplainable labyrinths which can swallow batallions with no way out.
+  </p>
+
+  <p>
+    What the official briefings describe as a "resource extraction opportunity" is, in the narrowest sense, accurate. The protoplanetary disk surrounding the Athe system contains rare mineral deposits and exotic compounds enough to justify the operational cost of any faction's presence here many times over. The crystals. The isotopes. The raw material abundance of a stellar nursery still in the process of becoming. Any single one of these would be sufficient to explain the tonnage of military hardware currently in low orbit.
+  </p>
+
+  <p>
+    They are not the reason.
+  </p>
+
+  <p>
+    The Collective's research divisions have been quietly cataloguing Eryxia's biological transformation rates for three seasons. The speed at which organisms adapt — not over generations, but within a single lifespan, within a single encounter, in direct response to external pressure — represents a model of accelerated adaptive engineering that no laboratory has replicated. The applications for a faction that builds soldiers are not subtle. The Human Faction's own xenobiological contractors have filed parallel reports. Both sets of reports are classified above the clearance level of anyone likely to be reading a mission briefing. What gets filtered down is "study local fauna for potential hazards." What is actually meant is considerably more specific.
+  </p>
+
+  <p>
+    Then there are the Labyrinths. The structures — if they are structures — that the Eryxians avoid and the ERYX Initiative calls "anomalous formations pending classification." Battalions have entered them. Survey teams with full sensor arrays have entered them. The Labyrinths have not, as a rule, returned these things intact, or at all, or in the sequence in which they went in. The Ancients built something here, or shaped something here, or are something here — the reports agree that the distinction may not be meaningful. Strategic control of Eryxia means strategic access to whatever the Labyrinths contain. Every faction leadership understands this. None of them have communicated it to the people they have deployed to the surface.<br>The workers, the soldiers, the survey technicians, the contracted researchers — they know about the mining deposits. They know about the artifacts. They have been told what they need to know to do their jobs and keep their heads down, and that information has been carefully calibrated to exclude the part that would change what they agreed to.<br>You are on Eryxia now. The calibration, whatever it was, is someone else's problem.
+
+  </p>
+
+  <p>
+    You arrived expecting a routine deployment. A survey mission, perhaps. Resource assessment. Maybe even "pacification" of some troublesome natives. The official briefings were filled with the usual corporate-speak and military jargon, sanitized for your consumption. They spoke of opportunity, of progress, of bringing order to chaos. They didn't mention the way the wind seems to carry voices, just beyond the range of human hearing. They did not mention the rumours of unexplainable labyrinths which can swallow batallions with no way out.
 <br>
 <br>You start to recognize subtle signs, which all factions on Eryxia are interpreting in their own ways. The rhythmic pulsing of seemingly simple but intriquing flora, the unsettling groaning of crystalline structures that pierce the clouds; even the unsettling silence between the howls of creatures eluding easy classification. These whispers of a history far older than humanity hint at powers slumbering beneath the surface, on a planet that resists easy comprehension.
 <br>
-<br>The dominant human factions – the iron fist of the Dominion's military complex, the subtle manipulations of the Utopian administrators, the cold, calculating logic of the <strong>Collective </strong>– an adversary to all – believe they can control Eryxia. They see it as a prize to be won, a resource to be exploited, a stepping stone to their own ambitions. They are, in their own ways, utterly blind.
+<br>The dominant human factions – the iron fist of the Terran Mandate's military complex, the subtle manipulations of the Steller Concord or Solarian administrators, the cold, calculating logic of the <strong>Collective </strong>– an adversary to all – believe they can control Eryxia. They see it as a prize to be won, a resource to be exploited, a stepping stone to their own ambitions. They are, in their own ways, utterly blind.
 <br>
 <br>Then there are the <strong>Eryxians</strong>. They appear and disappear like mist in the jungle, leaving behind more questions than answers. Are they contenders to Eryxia secrets? Are they guardians? Are they remnants of something… older? Their best "technology" is indistinguishable from nature, their motives inscrutable, their very existence a challenge to the neat categories of your science.
 <br>
@@ -173,24 +262,27 @@
         </content>
     </entry>
     <entry>
-        <title>Development and Worldbuilding Gallery</title>
+        <title>Worldbuilding Gallery</title>
         <author>
             <name>Eryx Games</name>
         </author>
         <link href="https://eryxian.com/development-and-worldbuilding-gallery.html"/>
         <id>https://eryxian.com/development-and-worldbuilding-gallery.html</id>
+        <media:content url="https://eryxian.com/media/posts/7/worldbuilding-bp-illus05bc.png" medium="image" />
 
         <updated>2024-05-16T17:56:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
-                    This gallery serves as a portal to the development process of Eryx world, offering a trove of concept art, sketches, and 3D models&hellip;
+                        <img src="https://eryxian.com/media/posts/7/worldbuilding-bp-illus05bc.png" alt="Eryxian cyborg exosuit design for Eryxian TTRPG, blueprint illustration." />
+                    This gallery serves as a portal to the development process of Eryxian world, offering a trove of concept art, sketches, AI-augmented renders, and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://eryxian.com/media/posts/7/worldbuilding-bp-illus05bc.png" class="type:primaryImage" alt="Eryxian cyborg exosuit design for Eryxian TTRPG, blueprint illustration." /></p>
                 
   <p>
-    This gallery serves as a portal to the development process of Eryx world, offering a trove of concept art, sketches, and 3D models that bring this universe to life. Witness the evolution of Eryx's environments, from desolate landscapes to haunting ruins, creatures and technologies, all teeming with the potential for both wonder and terror. This gallery is a constant work in progress, just like the world of Eryx itself. We'll continue to unveil new concepts and designs, offering you a front-row seat to the creative process. Stay tuned, for there's much more to uncover in the depths of Eryx.
+    This gallery serves as a portal to the development process of Eryxian world, offering a trove of concept art, sketches, AI-augmented renders, and 3D models that bring this universe to life. This gallery is a constant work in progress, just like the world of Eryxian itself—the design&nbsp; process is iterative. Stay tuned, for there's much more to uncover.
   </p>
 <div><p>
 <div class="btn-group"><a href="https://eryxian.com/Eryxian/eryxian-labyrinths.html" class="button">Eryxian Labyrinths</a> </a>
@@ -198,7 +290,7 @@
 </p></div>
 
   <p>
-    This gallery is for curious players, sci-fi/fantasy enthusiasts, design aficionados, and anyone eager to know more about the concept art. Dive into the desolate landscapes and haunting ruins of Eryx, meet its diverse inhabitants, and witness the intricate worldbuilding come to life. Explore the gallery, and don't forget to follow us on X-Twitter and YouTube for the latest news, insightful tutorials on concept art and design techniques, and thrilling gameplay videos that will prepare you for your descent into the mysteries and adventure of Eryx!<br>
+    This gallery is for curious players, sci-fi/fantasy enthusiasts, design aficionados, and anyone eager to know more about the concept art and world-building of Eryxian.&nbsp;&nbsp;<br>
   </p>
 <div><p>
 <div class="btn-group"><a href="https://eryxian.com/Eryxian/eryxian_hyperstructure_v2.html" class="button">Eryxian Hyperstructures</a> </a>
@@ -225,6 +317,488 @@
     </figure>
     </div>
   </div>
+<div><!-- ═══════════════════════════════════════════════════════════════════════
+     SECTION DIVIDER — paste between gallery sections
+════════════════════════════════════════════════════════════════════════ -->
+<div class="eryx-divider">
+<div class="eryx-divider__line"></div>
+<span class="eryx-divider__label">Eryxian Civilizations + Cargo Blueprints</span>
+<div class="eryx-divider__line"></div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     UNIFORM GRID — blueprints / technical drawings
+════════════════════════════════════════════════════════════════════════ -->
+<div class="eryx-gallery">
+
+<!-- Blueprint panel -->
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Blueprint</div>
+<div class="eryx-panel__media eryx-panel__media--landscape">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773942556/colonyship-bp_vf8y2f.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>FIG. 1A</strong> — Colony Support Ship · Eryxian Legacy TCG</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<!-- Blueprint panel — portrait orientation -->
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Blueprint</div>
+<div class="eryx-panel__media eryx-panel__media--portrait">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773942545/colonyship-close_udyp0x.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>FIG. 1B</strong> — Colony Support · section view</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<!-- Render panel -->
+<div class="eryx-panel eryx-panel--render">
+<div class="eryx-panel__label">Render</div>
+<div class="eryx-panel__media eryx-panel__media--landscape">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773942550/colonyship-viz_vrumua.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+</div>
+<div class="eryx-panel__caption"><strong>RENDER</strong> — Colony Outpost Site · final lighting pass</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+</div><!-- /eryx-gallery -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     UNIFORM GRID — blueprints / technical drawings
+════════════════════════════════════════════════════════════════════════ -->
+<div class="eryx-gallery">
+
+<!-- Blueprint panel -->
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Blueprint</div>
+<div class="eryx-panel__media eryx-panel__media--landscape">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773942077/cargo-transporter_ujqg3q.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>FIG. 1A</strong> — Transporter · Eryxian Legacy TCG</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<!-- Blueprint panel — portrait orientation -->
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Blueprint</div>
+<div class="eryx-panel__media eryx-panel__media--portrait">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773942083/cargo-transporter-render_go3b6s.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>FIG. 1B</strong> — Transporter · cross-section view</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+
+<div class="eryx-panel__accent"></div>
+</div>
+
+</div><!-- /eryx-gallery -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     UNIFORM GRID — blueprints / technical drawings
+════════════════════════════════════════════════════════════════════════ -->
+<div class="eryx-gallery">
+
+<!-- Blueprint panel -->
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Blueprint</div>
+<div class="eryx-panel__media eryx-panel__media--landscape">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773942216/col-cyborg-sketch_l4ukjd.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>FIG. 1A</strong> — Neurodroid Pod Armor · Eryxian Legacy TCG</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<!-- Blueprint panel — portrait orientation -->
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Blueprint</div>
+<div class="eryx-panel__media eryx-panel__media--portrait">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773942211/colcyborg-sketchcard_elozlw.png" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>FIG. 1B</strong> — Neurodroid Pod Armor · cross-section view</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+
+<div class="eryx-panel__accent"></div>
+</div>
+
+</div><!-- /eryx-gallery -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     UNIFORM GRID — blueprints / technical drawings
+════════════════════════════════════════════════════════════════════════ -->
+<div class="eryx-gallery">
+
+<!-- Blueprint panel -->
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Blueprint</div>
+<div class="eryx-panel__media eryx-panel__media--landscape">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773947384/research-observatory-bpb_gjhszf.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>FIG. 1A</strong> — Orbital Research Hub · Eryxian Legacy TCG</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<!-- Blueprint panel — portrait orientation -->
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Blueprint</div>
+<div class="eryx-panel__media eryx-panel__media--portrait">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773947398/research-observatory_sby0pw.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>FIG. 1B</strong> — Orbital Research Hub · section view</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+
+<div class="eryx-panel__accent"></div>
+</div>
+
+</div><!-- /eryx-gallery -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     UNIFORM GRID — blueprints / technical drawings
+════════════════════════════════════════════════════════════════════════ -->
+<div class="eryx-gallery">
+
+<!-- Blueprint panel -->
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Blueprint</div>
+<div class="eryx-panel__media eryx-panel__media--landscape">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773942073/cargo-surface-mover_kjpbhv.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>FIG. 1A</strong> — TAM Surface Cargo Crawler · Eryxian Legacy TCG</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<!-- Blueprint panel — portrait orientation -->
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Blueprint</div>
+<div class="eryx-panel__media eryx-panel__media--portrait">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773942070/cargo-surface-mover_i9n92l.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>FIG. 1B</strong> — TAM Surface Cargo Crawler · cross-section view</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+
+<div class="eryx-panel__accent"></div>
+</div>
+
+</div><!-- /eryx-gallery -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     MASONRY GRID — concept art, varied aspect ratios
+     Note: masonry uses CSS columns so images flow naturally
+════════════════════════════════════════════════════════════════════════ -->
+<div class="eryx-divider">
+<div class="eryx-divider__line"></div>
+<span class="eryx-divider__label">Other Concept Art</span>
+<div class="eryx-divider__line"></div>
+</div>
+<div class="eryx-gallery eryx-gallery--masonry">
+
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Concept</div>
+<div class="eryx-panel__media eryx-panel__media--auto">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773942434/racer-typhoon-01_oehfbf.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>CONCEPT</strong> — Typhoon Interceptor</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<div class="eryx-panel eryx-panel--render">
+<div class="eryx-panel__label">Render</div>
+<div class="eryx-panel__media eryx-panel__media--auto">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773942429/racertyphoon-viz_fgzz9c.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+</div>
+<div class="eryx-panel__caption"><strong>RENDER</strong> — Typhoon Interceptor</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Concept</div>
+<div class="eryx-panel__media eryx-panel__media--auto">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773942655/cargomodule-bp_yratr0.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>CONCEPT</strong> — Modular Cargo Hauler</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<div class="eryx-panel eryx-panel--render">
+<div class="eryx-panel__label">Render</div>
+<div class="eryx-panel__media eryx-panel__media--auto">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773942649/cargomodule-viz_r0xjnw.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+</div>
+<div class="eryx-panel__caption"><strong>RENDER</strong> — Modular Cargo Hauler</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+</div><!-- /masonry -->
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     DUO — side by side comparison (sketch vs render / before vs after)
+════════════════════════════════════════════════════════════════════════ -->
+<div class="eryx-divider">
+<div class="eryx-divider__line"></div>
+<span class="eryx-divider__label">Small/Medium Vehicles: Sketch vs Render</span>
+<div class="eryx-divider__line"></div>
+</div>
+<div class="eryx-gallery eryx-gallery--duo">
+
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Sketch</div>
+<div class="eryx-panel__media eryx-panel__media--portrait">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773943035/trailership_rakzic.jpg" alt="Sketch" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>SKETCH Cargo Lander/Trailer</strong> — initial concept</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<div class="eryx-panel eryx-panel--render">
+<div class="eryx-panel__label">Render</div>
+<div class="eryx-panel__media eryx-panel__media--portrait">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773943029/trailership-bp_btu75j.jpg" alt="Render" loading="lazy" data-is-external-image="true">
+</div>
+<div class="eryx-panel__caption"><strong>Cargo Lander/Trailer</strong> — final version</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+</div><!-- /duo -->
+
+<div class="eryx-divider">
+<div class="eryx-divider__line"></div>
+<span class="eryx-divider__label">Big Ships: Eryxian Cargo. Sketch vs Render</span>
+<div class="eryx-divider__line"></div>
+</div>
+<div class="eryx-gallery eryx-gallery--duo">
+
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Sketch</div>
+<div class="eryx-panel__media eryx-panel__media--portrait">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773946799/mining-refinery_hjopmf.jpg" alt="Sketch" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>Asteroid Mining Refinery</strong> — initial concept</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<div class="eryx-panel eryx-panel--render">
+<div class="eryx-panel__label">Render</div>
+<div class="eryx-panel__media eryx-panel__media--portrait">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773946805/mining-refinerz-bp_fiqx8b.jpg" alt="Render" loading="lazy" data-is-external-image="true">
+</div>
+<div class="eryx-panel__caption"><strong>RENDER Asteroid Mining Refinery</strong> — final version</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+</div><!-- /duo -->
+
+<div class="eryx-divider">
+<div class="eryx-divider__line"></div>
+<span class="eryx-divider__label">Character Development - Collective</span>
+<div class="eryx-divider__line"></div>
+</div>
+<div class="eryx-gallery eryx-gallery--duo">
+
+<div class="eryx-panel eryx-panel--blueprint">
+<div class="eryx-panel__label">Sketch</div>
+<div class="eryx-panel__media eryx-panel__media--landscape">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773950716/plasmalauncher-collective_rfuu63.png" alt="Sketch" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__scanlines"></div>
+</div>
+<div class="eryx-panel__caption"><strong>Cybercommander</strong> — initial concept and details</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<div class="eryx-panel eryx-panel--render">
+<div class="eryx-panel__label">Render</div>
+<div class="eryx-panel__media eryx-panel__media--landscape">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1773950710/cyberscorpion-collective_q0vph5.png" alt="Render" loading="lazy" data-is-external-image="true">
+</div>
+<div class="eryx-panel__caption"><strong>RENDER Cyberscorpion</strong> — working version</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+</div><!-- /duo -->
+<!-- ═══════════════════════════════════════════════════════════════════════
+     VIDEO PANEL — Cloudinary video
+     Add data-ytid="YOUTUBE_ID" to use YouTube instead of <video>
+════════════════════════════════════════════════════════════════════════ -->
+<div class="eryx-gallery eryx-gallery--single">
+
+<div class="eryx-panel eryx-panel--video">
+<div class="eryx-panel__label">Video</div>
+<div class="eryx-panel__media">
+<img src="https://res.cloudinary.com/dnfbskuf4/video/upload/v1773950062/cyberscorpion_intnaf.jpg" alt="Cyberscorpion" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__play"><div class="eryx-panel__play-btn">▶</div></div>
+<!-- Cloudinary video — swap src and poster below -->
+<video loading="lazy" src="https://res.cloudinary.com/dnfbskuf4/video/upload/v1773950062/cyberscorpion_intnaf.mp4"
+       poster="https://res.cloudinary.com/dnfbskuf4/video/upload/v1773950062/cyberscorpion_intnaf.jpg"
+       muted playsinline preload="none" style="display:none"></video>
+</div>
+<div class="eryx-panel__caption"><strong>VIDEO</strong> — Cyberscorpion · character development and design process</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+</div><!-- /single -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     SKETCHFAB 3D MODEL
+     - Poster image shows first (better performance)
+     - Clicking poster loads the iframe (model starts spinning)
+     - Clicking the caption label opens model fullscreen in lightbox
+     - Replace YOUR_MODEL_ID with the Sketchfab model ID (from the URL)
+     - Replace POSTER_URL with any preview image (screenshot from Sketchfab)
+     - ui_theme=dark matches the Eryxian site style
+     - Remove ui_watermark=0 if you are on a free Sketchfab plan
+════════════════════════════════════════════════════════════════════════ -->
+<div class="eryx-gallery eryx-gallery--single">
+
+<div class="eryx-panel eryx-panel--model">
+<div class="eryx-panel__label">3D Model</div>
+<div class="eryx-panel__media">
+<!-- Poster shown before load — click to activate model -->
+<div class="eryx-panel__model-poster">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1774213625/haulerforge-jpg-sketchfab-model_tbruob.jpg" alt="MODEL NAME" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__play"><div class="eryx-panel__play-btn">⟳</div></div>
+</div>
+<!-- Sketchfab iframe — loaded when poster is clicked -->
+<iframe loading="lazy" src="https://sketchfab.com/models/4fd0c290089f41da9a7ee0db9059f78a/embed?ui_theme=dark&ui_infos=0&ui_controls=1&preload=1"
+allow="autoplay; fullscreen; xr-spatial-tracking"
+allowfullscreen></iframe>
+</div>
+<!-- Click caption to open model fullscreen in lightbox -->
+<div class="eryx-panel__caption" style="cursor:pointer" title="Click to open fullscreen">
+<strong>3D MODEL</strong> — Surface Forgehauler (TAM-FH Mk. I) · click caption to expand · <span style="color:rgba(0,220,160,0.4)">⤢ fullscreen</span>
+</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+</div><!-- /single -->
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     MIXED GRID — renders + one model together
+     Good for a single subject page (character / vehicle / location)
+════════════════════════════════════════════════════════════════════════ -->
+<div class="eryx-gallery">
+
+<div class="eryx-panel eryx-panel--render">
+<div class="eryx-panel__label">Render</div>
+<div class="eryx-panel__media eryx-panel__media--landscape">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1774213740/01_bya9pk.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+</div>
+<div class="eryx-panel__caption"><strong>RENDER</strong> — front view</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<div class="eryx-panel eryx-panel--render">
+<div class="eryx-panel__label">Render</div>
+<div class="eryx-panel__media eryx-panel__media--landscape">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1774213738/01back_jzuzyg.jpg" alt="DESCRIPTION" loading="lazy" data-is-external-image="true">
+</div>
+<div class="eryx-panel__caption"><strong>RENDER</strong> — back view</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+<div class="eryx-panel eryx-panel--model">
+<div class="eryx-panel__label">3D Model</div>
+<div class="eryx-panel__media eryx-panel__media--landscape">
+<div class="eryx-panel__model-poster">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1774211893/truck4_tzu3v5.jpg" alt="MODEL NAME" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__play"><div class="eryx-panel__play-btn">⟳</div></div>
+</div>
+<iframe loading="lazy" src="https://sketchfab.com/models/4fd0c290089f41da9a7ee0db9059f78a/embed?ui_theme=dark&ui_infos=0&ui_controls=1&preload=1"
+allow="autoplay; fullscreen; xr-spatial-tracking"
+allowfullscreen></iframe>
+</div>
+<div class="eryx-panel__caption" style="cursor:pointer" title="Click to open fullscreen">
+<strong>3D MODEL</strong> — Forgehauler · <span style="color:rgba(0,220,160,0.4)">⤢ fullscreen</span>
+</div>
+<div class="eryx-panel__accent"></div>
+</div>
+
+</div><!-- /eryx-gallery -->
+<!-- ═══════════════════════════════════════════════════════════════════════
+     SKETCHFAB 3D MODEL
+     - Poster image shows first (better performance)
+     - Clicking poster loads the iframe (model starts spinning)
+     - Clicking the caption label opens model fullscreen in lightbox
+     - Replace YOUR_MODEL_ID with the Sketchfab model ID (from the URL)
+     - Replace POSTER_URL with any preview image (screenshot from Sketchfab)
+     - ui_theme=dark matches the Eryxian site style
+     - Remove ui_watermark=0 if you are on a free Sketchfab plan
+════════════════════════════════════════════════════════════════════════ -->
+<div class="eryx-gallery eryx-gallery--single">
+<div class="eryx-panel eryx-panel--model">
+<div class="eryx-panel__label">3D Model</div>
+<div class="eryx-panel__media">
+<!-- Poster shown before load — click to activate model -->
+<div class="eryx-panel__model-poster">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1774226513/corecyborg-sketchfab-model_gxkbgb.jpg" alt="MODEL NAME" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__play"><div class="eryx-panel__play-btn">⟳</div></div>
+</div>
+<!-- Sketchfab iframe — loaded when poster is clicked -->
+<iframe loading="lazy" src="https://sketchfab.com/models/11cdc4347d38485897bcfc398b9d839c/embed?ui_theme=dark&ui_infos=0&ui_controls=1&preload=1"
+allow="autoplay; fullscreen; xr-spatial-tracking"
+allowfullscreen></iframe>
+</div>
+<!-- Click caption to open model fullscreen in lightbox -->
+<div class="eryx-panel__caption" style="cursor:pointer" title="Click to open fullscreen">
+<strong>3D MODEL</strong> — Surface Forgehauler (TAM-FH Mk. I) · click caption to expand · <span style="color:rgba(0,220,160,0.4)">⤢ fullscreen</span>
+</div>
+<div class="eryx-panel__accent"></div>
+</div>
+</div><!-- /single -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     SKETCHFAB 3D MODEL
+     - Poster image shows first (better performance)
+     - Clicking poster loads the iframe (model starts spinning)
+     - Clicking the caption label opens model fullscreen in lightbox
+     - Replace YOUR_MODEL_ID with the Sketchfab model ID (from the URL)
+     - Replace POSTER_URL with any preview image (screenshot from Sketchfab)
+     - ui_theme=dark matches the Eryxian site style
+     - Remove ui_watermark=0 if you are on a free Sketchfab plan
+════════════════════════════════════════════════════════════════════════ -->
+<div class="eryx-gallery eryx-gallery--single">
+<div class="eryx-panel eryx-panel--model">
+<div class="eryx-panel__label">3D Model</div>
+<div class="eryx-panel__media">
+<!-- Poster shown before load — click to activate model -->
+<div class="eryx-panel__model-poster">
+<img src="https://res.cloudinary.com/dnfbskuf4/image/upload/v1774283104/neurokron_c618gb.png" alt="Neurokron Unit Eryxian" loading="lazy" data-is-external-image="true">
+<div class="eryx-panel__play"><div class="eryx-panel__play-btn">⟳</div></div>
+</div>
+<!-- Sketchfab iframe — loaded when poster is clicked -->
+<iframe loading="lazy" src="https://sketchfab.com/models/b481ba2b6e27409aaa75464b4fd465b5/embed?ui_theme=dark&ui_infos=0&ui_controls=1&preload=1"
+allow="autoplay; fullscreen; xr-spatial-tracking"
+allowfullscreen></iframe>
+</div>
+<!-- Click caption to open model fullscreen in lightbox -->
+<div class="eryx-panel__caption" style="cursor:pointer" title="Click to open fullscreen">
+<strong>3D MODEL</strong> —  Neurokron Master [Collective, CONCEPTUAL SKETCH] by Eryxian on Sketchfab · click caption to expand · <span style="color:rgba(0,220,160,0.4)">⤢ fullscreen</span>
+</div>
+<div class="eryx-panel__accent"></div>
+</div>
+</div><!-- /single -->
+</div>
             ]]>
         </content>
     </entry>
@@ -238,7 +812,7 @@
         <media:content url="https://eryxian.com/media/posts/1/eryxian-titlepageeryxalpha2b.png" medium="image" />
 
         <updated>2024-05-14T16:45:15+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://eryxian.com/media/posts/1/eryxian-titlepageeryxalpha2b.png" alt="Eryxian Card Game Logo" />
                     

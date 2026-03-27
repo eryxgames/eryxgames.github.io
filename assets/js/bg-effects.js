@@ -245,7 +245,317 @@
     // Terminal — only on homepage (when mount element exists)
     const termMount = document.getElementById('eryx-terminal-mount');
     if (termMount) initTerminal(termMount);
+    initTcgLightbox();
+    initLightbox();
   }
+
+/* ═══════════════════════════════════════════════════════════════════════════
+     TCG LIGHTBOX
+     Opens on click of any .tcg-card__art-wrap, .tcg-ed, or .tcg-video__thumb.
+     Handles: images, Cloudinary video (<video>), YouTube (data-ytid attr).
+  ═══════════════════════════════════════════════════════════════════════════ */
+  function initTcgLightbox () {
+    // Build overlay once
+    const lb = document.createElement('div');
+    lb.className = 'tcg-lightbox';
+    lb.innerHTML =
+      '<div class="tcg-lightbox__inner">' +
+        '<button class="tcg-lightbox__close" aria-label="Close">✕</button>' +
+        '<div class="tcg-lightbox__content"></div>' +
+        '<span class="tcg-lightbox__label"></span>' +
+      '</div>';
+    document.body.appendChild(lb);
+
+    const inner   = lb.querySelector('.tcg-lightbox__inner');
+    const content = lb.querySelector('.tcg-lightbox__content');
+    const label   = lb.querySelector('.tcg-lightbox__label');
+    const closeBtn= lb.querySelector('.tcg-lightbox__close');
+
+    function open (html, labelText) {
+      content.innerHTML = html;
+      label.textContent = labelText || '';
+      lb.classList.add('open');
+      document.body.style.overflow = 'hidden';
+      // autoplay video if present
+      const vid = content.querySelector('video');
+      if (vid) vid.play();
+    }
+
+    function close () {
+      // pause/stop media before clearing
+      const vid = content.querySelector('video');
+      if (vid) vid.pause();
+      content.innerHTML = '';
+      lb.classList.remove('open');
+      document.body.style.overflow = '';
+    }
+
+    // Close on overlay click (but not inner click)
+    lb.addEventListener('click', e => { if (e.target === lb) close(); });
+    closeBtn.addEventListener('click', close);
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') close(); });
+
+    // ── Click delegation on the whole document ─────────────────────────────
+    document.addEventListener('click', e => {
+
+      // Main art area
+            // Main art lightbox — DISABLED, re-enable by uncommenting
+      /*
+      const artWrap = e.target.closest('.tcg-card__art-wrap');
+      if (artWrap) {
+        const img  = artWrap.querySelector('.tcg-card__art');
+        const name = artWrap.closest('.tcg-card')
+                       ?.querySelector('.tcg-card__name')
+                       ?.textContent || '';
+        if (img) {
+          open(`<img src="${img.src}" alt="${img.alt}">`, name);
+          return;
+        }
+      }
+*/
+      // Edition slot
+      const ed = e.target.closest('.tcg-ed');
+      if (ed) {
+        const edLabel = ed.querySelector('.tcg-ed__label')?.textContent || '';
+        const cardName = ed.closest('.tcg-card')
+                           ?.querySelector('.tcg-card__name')
+                           ?.textContent || '';
+        const lbl = [cardName, edLabel].filter(Boolean).join(' — ');
+
+        // Cloudinary video slot
+        const vid = ed.querySelector('video');
+        if (vid) {
+          open(
+            `<video src="${vid.src}" controls autoplay
+               poster="${vid.poster || ''}"
+               style="max-width:100%;max-height:85vh;border-radius:6px">
+             </video>`,
+            lbl
+          );
+          return;
+        }
+
+        // YouTube slot
+        const ytId = ed.dataset.ytid;
+        if (ytId) {
+          open(
+            `<iframe src="https://www.youtube.com/embed/${ytId}?autoplay=1&rel=0"
+               allow="autoplay; fullscreen" allowfullscreen></iframe>`,
+            lbl
+          );
+          return;
+        }
+
+        // Image slot
+        const img = ed.querySelector('img:not(.tcg-card__frame)');
+        if (img) {
+          // Use full Cloudinary URL — swap to larger transform if Cloudinary
+          const src = img.src.replace('/upload/', '/upload/w_1200,f_auto/');
+          open(`<img src="${src}" alt="${img.alt}">`, lbl);
+          return;
+        }
+      }
+
+      // Main video thumbnail
+      const vthumb = e.target.closest('.tcg-video__thumb');
+      if (vthumb) {
+        e.preventDefault();
+        const ytId  = vthumb.dataset.ytid
+                   || vthumb.href?.match(/[?&v=]([^&]{11})/)?.[1]
+                   || vthumb.href?.split('/').pop();
+        const cardName = vthumb.closest('.tcg-card')
+                               ?.querySelector('.tcg-card__name')
+                               ?.textContent || '';
+        if (ytId) {
+          open(
+            `<iframe src="https://www.youtube.com/embed/${ytId}?autoplay=1&rel=0"
+               allow="autoplay; fullscreen" allowfullscreen></iframe>`,
+            cardName
+          );
+        }
+      }
+    });
+  }
+
+/*
+  ═══════════════════════════════════════════════════════════════════════════
+  ERYXIAN GALLERY LIGHTBOX EXTENSION
+  Add this function inside the IIFE in bg-effects.js, then call it from
+  the init() function alongside initTcgLightbox() — or replace
+  initTcgLightbox() entirely with this one, which handles both TCG cards
+  AND gallery panels in a single listener.
+  ═══════════════════════════════════════════════════════════════════════════
+*/
+
+  function initLightbox () {
+
+    // ── Build overlay ─────────────────────────────────────────────────────
+    const lb = document.createElement('div');
+    lb.className = 'tcg-lightbox';
+    lb.innerHTML =
+      '<div class="tcg-lightbox__inner">' +
+        '<button class="tcg-lightbox__close" aria-label="Close">✕</button>' +
+        '<div class="tcg-lightbox__content"></div>' +
+        '<span class="tcg-lightbox__label"></span>' +
+      '</div>';
+    document.body.appendChild(lb);
+
+    const inner   = lb.querySelector('.tcg-lightbox__inner');
+    const content = lb.querySelector('.tcg-lightbox__content');
+    const label   = lb.querySelector('.tcg-lightbox__label');
+    const closeBtn= lb.querySelector('.tcg-lightbox__close');
+
+    // ── Open / close ──────────────────────────────────────────────────────
+    function open (html, labelText) {
+      content.innerHTML = html;
+      label.textContent = labelText || '';
+      lb.classList.add('open');
+      document.body.style.overflow = 'hidden';
+      const vid = content.querySelector('video');
+      if (vid) vid.play();
+    }
+
+    function close () {
+      const vid = content.querySelector('video');
+      if (vid) vid.pause();
+      content.innerHTML = '';
+      lb.classList.remove('open');
+      document.body.style.overflow = '';
+    }
+
+    lb.addEventListener('click',    e => { if (e.target === lb) close(); });
+    closeBtn.addEventListener('click', close);
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') close(); });
+
+    // ── Helpers ───────────────────────────────────────────────────────────
+    function cloudinaryLarge (src) {
+      // Inject w_1400,f_auto into Cloudinary URL for full-size view
+      return src.includes('res.cloudinary.com')
+        ? src.replace('/upload/', '/upload/w_1400,f_auto/')
+        : src;
+    }
+
+    function ytEmbed (id) {
+      return `<iframe src="https://www.youtube.com/embed/${id}?autoplay=1&rel=0"
+        allow="autoplay; fullscreen" allowfullscreen></iframe>`;
+    }
+
+    // ── Sketchfab poster click — swap poster for iframe ───────────────────
+    document.addEventListener('click', e => {
+      const poster = e.target.closest('.eryx-panel__model-poster');
+      if (poster && !poster.classList.contains('is-hidden')) {
+        const panel  = poster.closest('.eryx-panel--model');
+        const iframe = panel?.querySelector('iframe');
+        if (iframe) {
+          // Add autoplay to src
+          if (!iframe.src.includes('autostart')) {
+            iframe.src = iframe.src + '&autostart=1';
+          }
+          poster.classList.add('is-hidden');
+        }
+        return;
+      }
+    });
+
+    // ── Click delegation — handles all clickable media ────────────────────
+    document.addEventListener('click', e => {
+
+      /* ── Gallery: blueprint / render image ───────────────────────── */
+      const gPanel = e.target.closest('.eryx-panel--blueprint, .eryx-panel--render');
+      if (gPanel && !e.target.closest('.eryx-panel__caption')) {
+        const img = gPanel.querySelector('.eryx-panel__media img');
+        if (img) {
+          const cap = gPanel.querySelector('.eryx-panel__caption')?.textContent || '';
+          open(`<img src="${cloudinaryLarge(img.src)}" alt="${img.alt}">`, cap.trim());
+          return;
+        }
+      }
+
+      /* ── Gallery: video panel ─────────────────────────────────────── */
+      const vPanel = e.target.closest('.eryx-panel--video');
+      if (vPanel && !e.target.closest('.eryx-panel__caption')) {
+        const ytId  = vPanel.dataset.ytid;
+        const video = vPanel.querySelector('video');
+        const cap   = vPanel.querySelector('.eryx-panel__caption')?.textContent || '';
+
+        if (ytId) {
+          open(ytEmbed(ytId), cap.trim());
+          return;
+        }
+        if (video) {
+          open(
+            `<video src="${video.src}" controls autoplay
+               poster="${video.poster || ''}"
+               style="max-width:100%;max-height:85vh;border-radius:6px"></video>`,
+            cap.trim()
+          );
+          return;
+        }
+        // poster image as fallback
+        const img = vPanel.querySelector('.eryx-panel__media img');
+        if (img) { open(`<img src="${cloudinaryLarge(img.src)}" alt="">`, cap.trim()); return; }
+      }
+
+      /* ── Gallery: model — open Sketchfab fullscreen in lightbox ──── */
+      const mPanel = e.target.closest('.eryx-panel--model .eryx-panel__caption');
+      if (mPanel) {
+        const panel  = mPanel.closest('.eryx-panel--model');
+        const iframe = panel?.querySelector('iframe');
+        if (iframe) {
+          const src = iframe.src.replace('autostart=1','').replace('&&','&') + '&autostart=1';
+          const cap = mPanel.textContent || '';
+          open(
+            `<iframe src="${src}" allow="autoplay; fullscreen; xr-spatial-tracking"
+               allowfullscreen style="width:min(88vw,1000px);aspect-ratio:16/9;border:none;border-radius:6px">
+             </iframe>`,
+            cap.trim()
+          );
+          return;
+        }
+      }
+
+      /* ── TCG: edition slot ────────────────────────────────────────── */
+      const ed = e.target.closest('.tcg-ed');
+      if (ed) {
+        const edLabel  = ed.querySelector('.tcg-ed__label')?.textContent || '';
+        const cardName = ed.closest('.tcg-card')?.querySelector('.tcg-card__name')?.textContent || '';
+        const lbl = [cardName, edLabel].filter(Boolean).join(' — ');
+
+        const vid  = ed.querySelector('video');
+        const ytId = ed.dataset.ytid;
+        const img  = ed.querySelector('img:not(.tcg-card__frame)');
+
+        if (vid)  { open(`<video src="${vid.src}" controls autoplay poster="${vid.poster||''}" style="max-width:100%;max-height:85vh;border-radius:6px"></video>`, lbl); return; }
+        if (ytId) { open(ytEmbed(ytId), lbl); return; }
+        if (img)  { open(`<img src="${cloudinaryLarge(img.src)}" alt="${img.alt}">`, lbl); return; }
+      }
+
+      /* ── TCG: main video thumb ────────────────────────────────────── */
+      const vthumb = e.target.closest('.tcg-video__thumb');
+      if (vthumb) {
+        e.preventDefault();
+        const ytId = vthumb.dataset.ytid
+          || vthumb.href?.match(/[?&v=]([^&]{11})/)?.[1]
+          || vthumb.href?.split('/embed/')?.[1]?.split('?')?.[0];
+        const cardName = vthumb.closest('.tcg-card')?.querySelector('.tcg-card__name')?.textContent || '';
+        if (ytId) { open(ytEmbed(ytId), cardName); }
+      }
+
+    }); // end delegation
+
+  } // end initLightbox
+
+/*
+  ─────────────────────────────────────────────────────────────────────────
+  In init() replace:
+      initTcgLightbox();
+  with:
+      initLightbox();
+
+  And delete the old initTcgLightbox function if you added it earlier.
+  ─────────────────────────────────────────────────────────────────────────
+*/
+
 
   /* ═══════════════════════════════════════════════════════════════════════════
      1. SLICE REVEAL
